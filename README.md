@@ -1,2 +1,1 @@
-# insanalamin.github.io
-A Lifelong Learner
+Makan tahu sama terempe
