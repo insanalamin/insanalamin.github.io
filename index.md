@@ -12,7 +12,9 @@ Hobi promosi open source di lingkungan pemerintahan\
 Senang jika bisa mensilaturahimkan pemerintah dan akademisi\
 Bagimana jika pemerintahan tidak usah berlangganan layanan digital\
 Tapi menyediakan hardware-hardware\
-Dan kampus yang mengembangkan layanan-layanan digitalnya secara open source\
+Dan kampus yang mengembangkan layanan-layanan digitalnya secara open source
+\
+
 
 
 [Musik](/musik)
