@@ -12,9 +12,9 @@ Hobi promosi open source di lingkungan pemerintahan\
 Senang jika bisa mensilaturahimkan pemerintah dan akademisi\
 Bagimana jika pemerintahan tidak usah berlangganan layanan digital\
 Tapi menyediakan hardware-hardware\
-Dan kampus yang mengembangkan layanan-layanan digitalnya secara open source
+Dan kampus yang mengembangkan layanan-layanan digitalnya secara open source\
 \
-Mengusulkan kepada Kemkominfo dan Kemdikbud
+Mengusulkan kepada Kemkominfo dan Kemdikbud :
 - Satu jurusan IT, minimal memerdekakan satu open source layanan digital langganan pemerintah dan umkm
 - Kebanyakan kurangnya open source di aspek ergonomisnya, intinya biasanya sudah mencukupi
 - Contoh, jurusan IT di kampus A, 10 % mahasiswa dan dosen turun-temurun mengembangkan aspek ergonomis dari Apache Superset agar senyaman Tableau, lalu di open source kan
