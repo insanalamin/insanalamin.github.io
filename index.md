@@ -7,7 +7,9 @@ Muhammad Insan Al-Amin
 
 > Tuangkan dalam media, secara jelas ringkas dan sederhana, sehingga mudah dimengerti 
 
+## Tautan
 - [Home](https://insanalamin.github.io)
+- [Keterampilan](/keterampilan)
 - [Riset](/riset)
 - [Musik](/musik)
 - [Timeline](/timeline)
