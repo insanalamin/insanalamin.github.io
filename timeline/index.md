@@ -34,6 +34,7 @@ layout: default
 ## 2007
 
 ## 2006
+- Udara pagi [ITB](https://www.itb.ac.id/),, jalanan yang dipenuhi bercak-bercak putih burung koak
 
 ## 2005
 
@@ -42,7 +43,7 @@ layout: default
 ## 2003
 
 ## 2002
-- Sao Jose Dos Campos
+- [Sao Jose Dos Campos](https://www.sjc.sp.gov.br/)
 
 ## 2001
 
