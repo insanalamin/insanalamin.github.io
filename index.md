@@ -7,7 +7,7 @@ layout: default
 Muhammad Insan Al-Amin
 - Tri dharma apprentice
 - Part time data engineer & [app developer](https://negeriku.id)
-- Pegiat open source & [open learning](https://mecha.id)
+- Pegiat open source & [open course](https://mecha.id)
 
 > Tuangkan dalam media, secara jelas ringkas dan sederhana, sehingga mudah dimengerti 
 
