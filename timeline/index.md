@@ -42,6 +42,7 @@ layout: default
 ## 2003
 
 ## 2002
+- Sao Jose Dos Campos
 
 ## 2001
 
@@ -62,13 +63,15 @@ layout: default
 ## 1994
 
 ## 1993
-- MacGyver di RCTI. Begitupun Saint Seiya.
+- MacGyver di RCTI. Begitupun Saint Seiya
+- Adik lahir
+- KFC Metro sudah ada, ayamnya enak, saus tomatnya selalu keingat
 
 ## 1992
-- Ui, Esti, Meni. Sepertinya mereka bersodara. Rumahnya besar, berdiri di lebih dari satu level ketinggian tanah. Arsitektur ala 80 an.
-- Haur Pancuh adalah wilayah besar bagi seorang balita. Jembatan yang saat ini hanya beberapa meter, seperti jembatan besar nan jauh. 
-- Kegiatan sehari-hari selain bermain adalah menunggu bapa pulang sore hari. Turun angkot Cicaheum Ciroyom di depan Unpad Dipatiukur.
-- Pemilu 1992, momen ketika mamah mau nyoblos, menangis keras karena tidak dibolehkan ikut masuk ke bilik pencoblosan. Akhirnya panitia mengalihkan perhatian dengan menyuruh baca tulisan-tulisan spanduk disitu. Kalo diinget-inget, warna area pemungutan suara didominasi kain spanduk biru.
+- Ui, Esti, Meni. Sepertinya mereka bersodara. Rumahnya besar, berdiri di lebih dari satu level ketinggian tanah. Arsitektur ala 80 an
+- Haur Pancuh adalah wilayah besar bagi seorang balita. Jembatan yang saat ini hanya beberapa meter, seperti jembatan besar nan jauh
+- Kegiatan sehari-hari selain bermain adalah menunggu bapa pulang sore hari. Turun angkot Cicaheum Ciroyom di depan Unpad Dipatiukur
+- Pemilu 1992, momen ketika mamah mau nyoblos, menangis keras karena tidak dibolehkan ikut masuk ke bilik pencoblosan. Akhirnya panitia mengalihkan perhatian dengan menyuruh baca tulisan-tulisan spanduk disitu. Kalo diinget-inget, warna area pemungutan suara didominasi kain spanduk biru
 
 ## 1991
 
