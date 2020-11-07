@@ -10,6 +10,8 @@ Muhammad **[In](https://id.linkedin.com/in/insan-al-amin)san** Al-Amin
 - Pegiat open source & [open course](https://mecha.id)
 
 ## Kata-kata mutiara
+> Tiap posisi, keadaan, dan kejadian, ada untuk mendekatkan diri kepada Allah
+
 > Tuangkan dalam media, secara jelas ringkas dan sederhana, sehingga mudah dimengerti
 
 > Progres per lima menit
