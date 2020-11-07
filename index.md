@@ -11,6 +11,7 @@ Muhammad **[In](https://id.linkedin.com/in/insan-al-amin)san** Al-Amin
 
 ## Kata-kata mutiara
 > Tuangkan dalam media, secara jelas ringkas dan sederhana, sehingga mudah dimengerti
+
 > Progres per lima menit
 
 ## Tautan
