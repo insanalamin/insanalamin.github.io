@@ -50,9 +50,10 @@ layout: default
 ## 1999
 
 ## 1998
-- Bu Tati, wali kelas ketika kelas 4 SD. Membuka les mata pelajaran di rumahnya. Ada jus tomat versi Rp 300, ada versi Rp 500. Ada indomie. Sepeda adalah motor  bagi anak SD.
+- Bu Tati, wali kelas ketika kelas 4 SD. Membuka les mata pelajaran di rumahnya. Ada jus tomat versi Rp 300, ada versi Rp 500. Ada indomie. Sepeda adalah motor  bagi anak SD. [Ingatan 2020]
 
 ## 1997
+- Reuni angkatan kampus bapak yang ke 20. Sabuga masih tahap pembangunan. Tangga turun masih teringat jelas. Lapangan tenis. [Ingatan 2020]
 
 ## 1996
 
@@ -61,8 +62,13 @@ layout: default
 ## 1994
 
 ## 1993
+- MacGyver di RCTI. Begitupun Saint Seiya.
 
 ## 1992
+- Ui, Esti, Meni. Sepertinya mereka bersodara. Rumahnya besar, berdiri di lebih dari satu level ketinggian tanah. Arsitektur ala 80 an.
+- Haur Pancuh adalah wilayah besar bagi seorang balita. Jembatan yang saat ini hanya beberapa meter, seperti jembatan besar nan jauh. 
+- Kegiatan sehari-hari selain bermain adalah menunggu bapa pulang sore hari. Turun angkot Cicaheum Ciroyom di depan Unpad Dipatiukur.
+- Pemilu 1992, momen ketika mamah mau nyoblos, menangis keras karena tidak dibolehkan ikut masuk ke bilik pencoblosan. Akhirnya panitia mengalihkan perhatian dengan menyuruh baca tulisan-tulisan spanduk disitu. Kalo diinget-inget, warna area pemungutan suara didominasi kain spanduk biru.
 
 ## 1991
 
@@ -71,4 +77,4 @@ layout: default
 ## 1989
 
 ## 1988
-- Lahir ke dunia. Mamah usia 26 tahun, Bapa usia 30 ketika itu. RS Borromeous. Salah seorang suster berseragam putih ada di dokumentasi ketika sedang gendong saya. 
+- Lahir ke dunia. Mamah usia 26 tahun, Bapa usia 30 ketika itu. RS Borromeous. Salah seorang suster berseragam putih ada di dokumentasi ketika sedang gendong saya. [Ingatan 2020]
