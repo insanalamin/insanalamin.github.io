@@ -29,4 +29,5 @@ layout: default
 - Machine learning
 - Artificial intelligence
 - Big Data
+- Internet of Things
 - GIS
