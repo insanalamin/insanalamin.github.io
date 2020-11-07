@@ -17,9 +17,16 @@ layout: default
 
 ## App Development
 - Flutter
-- Vue JS
+- Vue.js
 - OpenLayers
 - Rust
-- PHP
 - Gitlab CI/CD
 - Docker
+
+## Course
+- Distributed computing
+- Data mining
+- Machine learning
+- Artificial intelligence
+- Big Data
+- GIS
