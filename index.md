@@ -5,7 +5,7 @@ layout: default
 
 ## Profil
 Muhammad Insan Al-Amin
-- Pengajar, peneliti, pengabdi masyarakat
+- Tri dharma apprentice
 - Part time data engineer & [app developer](https://negeriku.id)
 - Pegiat open source & [open learning](https://mecha.id)
 
