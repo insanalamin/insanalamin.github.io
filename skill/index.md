@@ -24,10 +24,10 @@ layout: default
 - Docker
 
 ## Course
-- Distributed computing
+- Big Data
+- Distributed Computing
+- Internet of Things
 - Data mining
 - Machine learning
 - Artificial intelligence
-- Big Data
-- Internet of Things
 - GIS
