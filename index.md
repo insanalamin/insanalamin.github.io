@@ -9,7 +9,7 @@ Muhammad Insan Al-Amin
 
 ## Tautan
 - [Home](https://insanalamin.github.io)
-- [Keterampilan](/keterampilan)
+- [Otak-atik](/skill)
 - [Riset](/riset)
 - [Musik](/musik)
 - [Timeline](/timeline)
