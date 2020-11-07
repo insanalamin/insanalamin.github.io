@@ -1,5 +1,6 @@
 ---
 title: Muhammad Insan Al-Amin
+layout: default
 ---
 
 Muhammad Insan Al-Amin
