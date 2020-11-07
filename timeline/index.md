@@ -3,7 +3,7 @@ title: Timeline Hidup
 layout: default
 ---
 
-> Timeline hidup adalah media introspeksi. Media untuk sadar bahwa kehidupan berlalu sangat cepat. Bahwa manusia tidak boleh lupa dengan tujuan hidupnya. Beribadah kepada Allah.
+> Timeline hidup adalah media introspeksi. Media untuk sadar bahwa kehidupan berlalu sangat cepat. Bahwa manusia tidak boleh lupa dengan tujuan hidupnya.
 
 ## 2020
 
@@ -50,6 +50,7 @@ layout: default
 ## 1999
 
 ## 1998
+- Bu Tati, wali kelas ketika kelas 4 SD. Membuka les mata pelajaran di rumahnya. Ada jus tomat versi Rp 300, ada versi Rp 500. Ada indomie. Sepeda adalah motor  bagi anak SD.
 
 ## 1997
 
