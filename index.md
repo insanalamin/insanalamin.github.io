@@ -17,9 +17,10 @@ Muhammad **[In](https://id.linkedin.com/in/insan-al-amin)san** Al-Amin
 ## Tautan
 - [Home](https://insanalamin.github.io)
 - [Otak-atik](/skill)
-- [Riset](/research)
+- [RND](/research)
 - [Ide](/ideas)
 - [Musik](/music)
+- [VMCVS](/vmcvs)
 - [Timeline](/timeline)
 - [Puisi](/poetry)
 - [Kampus Zero Dropout](https://mecha.id)
