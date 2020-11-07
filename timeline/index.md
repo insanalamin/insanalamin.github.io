@@ -33,6 +33,8 @@ layout: default
 ## 2011
 
 ## 2010
+- JujurMedia. Petualangan bersama Galih dan Destri ke salah satu jaringan tempat menginap dan tempat tinggal di Bandung.
+- Dari depan kamar di satu kosan sekitar lembah Cihampelas ketika malem, hamparan pemukiman dengan titik-titik lampu kuning dan putih. Lampu-lampu Sabuga, gelap pepohonan di Babakan Siliwangi hingga kebun binatang bandung, hingga corak kota dibalik pemandangan jembatan Pasopati dan Ciwalk.
 
 ## 2009
 
