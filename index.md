@@ -9,7 +9,9 @@ Muhammad **[In](https://id.linkedin.com/in/insan-al-amin)san** Al-Amin
 - Part time data engineer & [app developer](https://negeriku.id)
 - Pegiat open source & [open course](https://mecha.id)
 
-> Tuangkan dalam media, secara jelas ringkas dan sederhana, sehingga mudah dimengerti 
+## Kata-kata mutiara
+> Tuangkan dalam media, secara jelas ringkas dan sederhana, sehingga mudah dimengerti
+> Progres per lima menit
 
 ## Tautan
 - [Home](https://insanalamin.github.io)
