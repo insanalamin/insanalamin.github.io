@@ -41,6 +41,7 @@ layout: default
 ## 2008
 
 ## 2007
+- Di rumah, cukup gelap, meja makan, sepertinya sedang liburan. Gukguk.com. Diiringi musik seperti Goodnight Electric atau The Upstairs. Sepertinya bagus kalau ada pilihan Indonesia, Barat, dan Jepang.
 
 ## 2006
 - Udara pagi [ITB](https://www.itb.ac.id/),, jalanan yang dipenuhi bercak-bercak putih burung koak
