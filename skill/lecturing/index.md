@@ -31,8 +31,8 @@ Penguasaan materi adalah prioritas pertama yang harus dilakukan ketika akan meng
 
 ### Membuat Materi Ajar
 
-- Buat silabus dan satuan acara perkuliahan
-- Buat alur dari materi per pertemuan
+- Silabus dan satuan acara perkuliahan
+- Alur penjelasan dari materi per pertemuan
 - Gunakan ilustrasi, diagram, dan mindmap
 - Gunakan teknik pengaitan untuk menjelaskan konsep yang kompleks
 - Buat materi seolah-olah untuk kelas 5 SD
