@@ -21,7 +21,7 @@ published: true
 
 ## Pembangunan Aplikasi
 - Flutter
-- Vue.js
+- React
 - OpenLayers
 - Rust
 - Gitlab CI/CD
