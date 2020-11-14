@@ -35,6 +35,8 @@ Penguasaan materi adalah prioritas pertama yang harus dilakukan ketika akan meng
 <div id="mindmap-1"></div>
 <script>console.log("gonzales");</script>
 
+_js-mindmap-1_
+
 - Silabus dan satuan acara perkuliahan
 - Alur penjelasan dari materi per pertemuan
 - Gunakan ilustrasi, diagram, dan mindmap
