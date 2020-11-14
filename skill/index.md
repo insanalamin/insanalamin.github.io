@@ -4,7 +4,7 @@ layout: default
 published: true
 ---
 ## Pendidikan Tinggi
-- Mengajar
+- [Mengajar](/skill/lecturing/)
 - Riset
 
 ## Pemodelan
