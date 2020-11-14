@@ -32,7 +32,7 @@ Penguasaan materi adalah prioritas pertama yang harus dilakukan ketika akan meng
 ### Membuat Materi Ajar
 
 <div id="mindmap-1"></div>
-<em id="word">word</em>
+<script>console.log("gonzales");</script>
 
 - Silabus dan satuan acara perkuliahan
 - Alur penjelasan dari materi per pertemuan
