@@ -1,21 +1,25 @@
 ---
 title: Skill
 layout: default
+published: true
 ---
+## Pendidikan Tinggi
+- Mengajar
+- Riset
 
-## Modeling
+## Pemodelan
 - Python
 - C
 - C++
 - Modelica
 
-## Multimedia Learning
+## Pembelajaran Multimedia
 - OBS Studio
 - Inkscape
 - GIMP
 - Blender
 
-## App Development
+## Pembangunan Aplikasi
 - Flutter
 - Vue.js
 - OpenLayers
@@ -23,7 +27,7 @@ layout: default
 - Gitlab CI/CD
 - Docker
 
-## Course
+## Mata Kuliah
 - Big Data
 - Distributed Computing
 - Internet of Things
