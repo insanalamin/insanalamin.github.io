@@ -29,6 +29,14 @@ Penguasaan materi adalah prioritas pertama yang harus dilakukan ketika akan meng
 - Buat alur pembelajaran
 - Jelaskan
 
+### Membuat Materi Ajar
+
+- Buat silabus dan satuan acara perkuliahan
+- Buat alur dari materi per pertemuan
+- Gunakan ilustrasi, diagram, dan mindmap
+- Gunakan teknik pengaitan untuk menjelaskan konsep yang kompleks
+- Buat materi seolah-olah untuk kelas 5 SD
+
 ### Marketing Keilmuan
 
 - Ceritakan contoh kasus berhasil ataupun gagal akibat materi tersebut
