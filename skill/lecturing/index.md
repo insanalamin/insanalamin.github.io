@@ -2,6 +2,7 @@
 title: Perkuliahan
 layout: default
 published: true
+include: mindmap-lecturing.js
 ---
 ## Tugas Dosen Pada Setiap Perkuliahan
 - Menuntun mahasiswa mendapatkan pemahaman, pencerahan, dan hasrat menciptakan solusi produktif dari materi kuliah di pertemuan tersebut
