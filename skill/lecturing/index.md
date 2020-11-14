@@ -31,6 +31,9 @@ Penguasaan materi adalah prioritas pertama yang harus dilakukan ketika akan meng
 
 ### Membuat Materi Ajar
 
+<div id="mindmap-1"></div>
+<em id="word">word</em>
+
 - Silabus dan satuan acara perkuliahan
 - Alur penjelasan dari materi per pertemuan
 - Gunakan ilustrasi, diagram, dan mindmap
