@@ -15,6 +15,7 @@ published: true
 
 ## Pembelajaran Multimedia
 - OBS Studio
+- Reveal JS
 - Inkscape
 - GIMP
 - Blender
