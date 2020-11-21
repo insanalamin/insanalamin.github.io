@@ -18,10 +18,12 @@ title: Playlist Musik
 - [My Little Lover - Stardust](https://www.youtube.com/watch?v=eaD4hJjlVPs)
 - [My Little Lover - Evergreen](https://www.youtube.com/watch?v=Ohf_3wJVfw8)
 
-## Electronic
+## World
+
+### Electronic
 - [Beat Foundation - My Freedom](https://www.youtube.com/watch?v=bXnxQtW3UOU&list=PLRHcTY84xEDptrPksDJuKpQ08djGbcgJ9&index=1)
 - [Jose Amnesia vs Karen Overton - Your Loving Arms (Ja Sunrise Mix)](https://www.youtube.com/watch?v=WRfunNPW7aw&list=PLRHcTY84xEDptrPksDJuKpQ08djGbcgJ9&index=2)
-- [Dj Shah ft Adrina Thorpe - Who Will Find Me](https://www.youtube.com/watch?v=cGbRW_1ije0&list=PLRHcTY84xEDptrPksDJuKpQ08djGbcgJ9&index=3)
+- [D7 Shah ft Adrina Thorpe - Who Will Find Me](https://www.youtube.com/watch?v=cGbRW_1ije0&list=PLRHcTY84xEDptrPksDJuKpQ08djGbcgJ9&index=3)
 - [Kaskade - 4 AM (Adam K & Soha Mix)](https://www.youtube.com/watch?v=Xl9lQonO_RQ&list=PLRHcTY84xEDptrPksDJuKpQ08djGbcgJ9&index=4)
 - [Deadmau5 & Kaskade - I Remember](https://www.youtube.com/watch?v=vUzVCw8BEXA&list=PLRHcTY84xEDptrPksDJuKpQ08djGbcgJ9&index=5)
 - [Cillo - Breathe (Vocal Mix)](https://www.youtube.com/watch?v=qMmf7gQePf8&list=PLRHcTY84xEDptrPksDJuKpQ08djGbcgJ9&index=6)
@@ -38,13 +40,18 @@ title: Playlist Musik
 - [Passion Pit - Seaweed Song (E-603 Remix)](https://www.youtube.com/watch?v=zG6zXIv2a-I)
 - [Zedd - Spectrum (Beatwalker's Chill Remix)](https://www.youtube.com/watch?v=8rGN1lfo1pg&list=PLRHcTY84xEDptrPksDJuKpQ08djGbcgJ9&index=18)
 - [Gareth Emery - Long Way Home](https://www.youtube.com/watch?v=0bj4i-sW44s&list=PLRHcTY84xEDptrPksDJuKpQ08djGbcgJ9&index=19)
-- [DJ Antoine vs Timati feat. Kalenna - Welcome to St. Tropez (DJ Antoine vs Mad Mark Remix)](https://www.youtube.com/watch?v=Kh2FRFhS7QY)
+- [D7 Antoine vs Timati feat. Kalenna - Welcome to St. Tropez (DJ Antoine vs Mad Mark Remix)](https://www.youtube.com/watch?v=Kh2FRFhS7QY)
 - [Timbaland & Michelle Branch - Getaway](https://www.youtube.com/watch?v=MOqxFBKakD0)
 - [Spyzer - I feel so free](https://www.youtube.com/watch?v=tdhzjRaHwnI)
 - [Massive Attack - Angel](https://www.youtube.com/watch?v=hbe3CQamF8k)
-- []()
-- []()
-- []()
+- [Nico & Vinz - Am I Wrong](https://www.youtube.com/watch?v=bg1sT4ILG0w)
+- [Galantis - Firebird](https://www.youtube.com/watch?v=v48pibjFWeg)
+- [ATB - Could You Believe](https://www.youtube.com/watch?v=aAZRi_vUh0I)
+- [D7 Sammy - Look For Love (Jose De Mara Remix)](https://www.youtube.com/watch?v=wTW-Pe4IsKQ)
+- [R.I.O. - Like I Love You](https://www.youtube.com/watch?v=J7uP6nwQvc0)
+- [R.I.O. - Shine On](https://www.youtube.com/watch?v=6zNva6tTmrE)
+- [Alesso - Years ft. Matthew Koma](https://www.youtube.com/watch?v=EGYaxYaxD_M)
+- [Sebastian Ingrosso, Alesso - Calling (Lose My Mind) ft. Ryan Tedder](https://www.youtube.com/watch?v=9G1I16gJBvU)
 - []()
 - []()
 - []()
