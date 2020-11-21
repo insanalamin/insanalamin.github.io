@@ -56,7 +56,11 @@ title: Playlist Musik
 - [Sebastian Ingrosso, Alesso - Calling (Lose My Mind) ft. Ryan Tedder](https://www.youtube.com/watch?v=9G1I16gJBvU)
 - [Flight Facilities - Crave You (Adventure Club Dubstep Remix)](https://www.youtube.com/watch?v=ZeaIvjoH1FY&list=PL1AC6F508332EA941&index=37)
 - [Kid Cudi - Pursuit Of Happiness ft. MGMT](https://www.youtube.com/watch?v=7xzU9Qqdqww&list=PLMOqpyVO0Oa3OwuUvFHBIxLeyULjoTczV)
-___
+- [Andain - Beautiful Things](https://www.youtube.com/watch?v=khYQiK9v2z4)
+- [Rachel starr - Till there was you(gabriel and dresden mix)](https://www.youtube.com/watch?v=21lTciumtlQ)
+- [Armin van Buuren & D7 Shah feat. Chris Jones - Going Wrong](https://www.youtube.com/watch?v=JahA00JV304)
+
+
 - [Money G - Du bist nicht du (Dream Dance Vol 60)](https://www.youtube.com/watch?v=Tvej1SdOHB0)
 - [Cascada - San Francisco (Frisco Extendet Mix)](https://www.youtube.com/watch?v=v7V-CzK7f0Y)
 - [Topmodelz - My Paradise (Classic Mix)](https://www.youtube.com/watch?v=FJ6rQfWi7yI&list=PL799074411F89BEDB&index=10)
@@ -64,7 +68,10 @@ ___
 - [G&G - Beautiful Day](https://www.youtube.com/watch?v=4gEFK3GfiSw&list=PL799074411F89BEDB&index=13)
 - [Fragma - Everytime You Need Me 2011 (Marc Lime And K Bastian Remix)](https://www.youtube.com/watch?v=Hay0Z4G4GZg&list=PL799074411F89BEDB&index=28)
 - [Kyau & Albert - A Night Like This](https://www.youtube.com/watch?v=lH4vXBIXNJg&list=PL799074411F89BEDB&index=26)
-___
+- [D7 Klubbingman feat. Beatrix Delgado - Are U Ready](https://www.youtube.com/watch?v=RwKTkaiFMWg&list=PL799074411F89BEDB&index=8)
+- [Kourou feat. Sylvianne - Paradis Perdu](https://www.youtube.com/watch?v=vul-xKFMYgc&list=PL799074411F89BEDB&index=37)
+
+
 - [Rihanna - We Found Love (Audio) ft. Calvin Harris](https://www.youtube.com/watch?v=GchEVSx9XEA)
 - [Swedish House Mafia - Don't You Worry Child](https://www.youtube.com/watch?v=Xme7UbCWSq4)
 - [Avicii - Fade Into Darkness (Vocal Club Mix)](https://www.youtube.com/watch?v=ugeAB9A01wc)
