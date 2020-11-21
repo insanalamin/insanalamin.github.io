@@ -20,6 +20,8 @@ title: Playlist Musik
 
 ## World
 
+### Cafe Del Mar
+
 ### Electronic
 - [Beat Foundation - My Freedom](https://www.youtube.com/watch?v=bXnxQtW3UOU&list=PLRHcTY84xEDptrPksDJuKpQ08djGbcgJ9&index=1)
 - [Jose Amnesia vs Karen Overton - Your Loving Arms (Ja Sunrise Mix)](https://www.youtube.com/watch?v=WRfunNPW7aw&list=PLRHcTY84xEDptrPksDJuKpQ08djGbcgJ9&index=2)
@@ -52,6 +54,35 @@ title: Playlist Musik
 - [R.I.O. - Shine On](https://www.youtube.com/watch?v=6zNva6tTmrE)
 - [Alesso - Years ft. Matthew Koma](https://www.youtube.com/watch?v=EGYaxYaxD_M)
 - [Sebastian Ingrosso, Alesso - Calling (Lose My Mind) ft. Ryan Tedder](https://www.youtube.com/watch?v=9G1I16gJBvU)
+- [Flight Facilities - Crave You (Adventure Club Dubstep Remix)](https://www.youtube.com/watch?v=ZeaIvjoH1FY&list=PL1AC6F508332EA941&index=37)
+- [Kid Cudi - Pursuit Of Happiness ft. MGMT](https://www.youtube.com/watch?v=7xzU9Qqdqww&list=PLMOqpyVO0Oa3OwuUvFHBIxLeyULjoTczV)
+
+
+- [Money G - Du bist nicht du (Dream Dance Vol 60)](https://www.youtube.com/watch?v=Tvej1SdOHB0)
+- [Cascada - San Francisco (Frisco Extendet Mix)](https://www.youtube.com/watch?v=v7V-CzK7f0Y)
+- [Topmodelz - My Paradise (Classic Mix)](https://www.youtube.com/watch?v=FJ6rQfWi7yI&list=PL799074411F89BEDB&index=10)
+- [Darius & Finlay feat. Tibration - She's A Freak](https://www.youtube.com/watch?v=Y-9KL7TBgjk&list=PL799074411F89BEDB&index=12)
+- [G&G - Beautiful Day](https://www.youtube.com/watch?v=4gEFK3GfiSw&list=PL799074411F89BEDB&index=13)
+- [Fragma - Everytime You Need Me 2011 (Marc Lime And K Bastian Remix)](https://www.youtube.com/watch?v=Hay0Z4G4GZg&list=PL799074411F89BEDB&index=28)
+- [Kyau & Albert - A Night Like This](https://www.youtube.com/watch?v=lH4vXBIXNJg&list=PL799074411F89BEDB&index=26)
+
+
+- [Rihanna - We Found Love (Audio) ft. Calvin Harris](https://www.youtube.com/watch?v=GchEVSx9XEA)
+- [Swedish House Mafia - Don't You Worry Child](https://www.youtube.com/watch?v=Xme7UbCWSq4)
+- [Avicii - Fade Into Darkness (Vocal Club Mix)](https://www.youtube.com/watch?v=ugeAB9A01wc)
+- [Calvin Harris - Feel So Close](https://www.youtube.com/watch?v=R8egmh5dWzo)
+- [Usher Ft.Pitbull - D7 Got Us Falling In Love](https://www.youtube.com/watch?v=tV05iSxDd2c)
+- [The Black Eyed Peas - Just Can't Get Enough](https://www.youtube.com/watch?v=MUCo7vM-FCk)
+- [MAGIC! - Rude (Zedd Remix)](https://www.youtube.com/watch?v=E9Q4-wcPDBQ)
+- [M83 - Midnight City](https://www.youtube.com/watch?v=dX3k_QDnzHE)
+- [Far East Movement - Rocketeer](https://www.youtube.com/watch?v=NyJBR_C6D38)
+- [Gym Class Heroes - Cookie Jar](https://www.youtube.com/watch?v=c9q8p5rQPKI)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
