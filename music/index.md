@@ -21,9 +21,11 @@ title: Playlist Musik
 ### Mix
 - [YUI - Life](https://www.youtube.com/watch?v=bvTVynFMI-Y)
 - [Tube - Sky High]()
-- [Janne D Arc - Heaven]()
+- [Janne Da Arc - Heaven]()
+- [Janne Da Arc - Shining Ray](https://music.youtube.com/watch?v=mXkCSuNGBso)
 - [Coming Century - Breakthrough (OST Eyeshield 21)](https://www.youtube.com/watch?v=X2OJodBxZg8)
 - [Nana Kitade - Kesenai Tsumi (OST Full Metal Alchemist)](https://www.youtube.com/watch?v=dNWTmSvaZ74)
+- [Tatsuro Yamashita - Mermaid](https://www.youtube.com/watch?v=I_WhqfBouPw)
 
 ## World
 
@@ -66,6 +68,7 @@ title: Playlist Musik
 - [Andain - Beautiful Things](https://www.youtube.com/watch?v=khYQiK9v2z4)
 - [Rachel starr - Till there was you(gabriel and dresden mix)](https://www.youtube.com/watch?v=21lTciumtlQ)
 - [Armin van Buuren & D7 Shah feat. Chris Jones - Going Wrong](https://www.youtube.com/watch?v=JahA00JV304)
+- [Toltec - Ray of Hope (Inverse Ratio Chillout Mix)](https://music.youtube.com/watch?v=1l8pEH1eIDo)
 
 
 - [Money G - Du bist nicht du (Dream Dance Vol 60)](https://www.youtube.com/watch?v=Tvej1SdOHB0)
