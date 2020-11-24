@@ -18,6 +18,13 @@ title: Playlist Musik
 - [My Little Lover - Stardust](https://www.youtube.com/watch?v=eaD4hJjlVPs)
 - [My Little Lover - Evergreen](https://www.youtube.com/watch?v=Ohf_3wJVfw8)
 
+### Mix
+- [YUI - Life](https://www.youtube.com/watch?v=bvTVynFMI-Y)
+- [Tube - Sky High]()
+- [Janne D Arc - Heaven]()
+- [Coming Century - Breakthrough (OST Eyeshield 21)](https://www.youtube.com/watch?v=X2OJodBxZg8)
+- [Nana Kitade - Kesenai Tsumi (OST Full Metal Alchemist)](https://www.youtube.com/watch?v=dNWTmSvaZ74)
+
 ## World
 
 ### Cafe Del Mar
