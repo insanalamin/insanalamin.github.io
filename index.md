@@ -21,6 +21,7 @@ Muhammad **[In](https://id.linkedin.com/in/insan-al-amin)san** Al-Amin
 - [Otak-atik](/skill)
 - [RND](/research)
 - [Ide](/ideas)
+- [Blog](/blog)
 - [Timeline](/timeline)
 - [VMCVS](/vmcvs)
 - [Timeline](/timeline)
