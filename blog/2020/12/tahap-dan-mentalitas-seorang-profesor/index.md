@@ -21,5 +21,6 @@ Sekarang di tempat ini, saya kembali melihat cita-cita tersebut dengan lebih rea
 
 ## Artikel Terkait
 - [Jenjang Jabatan Fungsional Dosen dan Tips Naik Jabatan](https://www.duniadosen.com/jenjang-jabatan-fungsional-dosen/)
+- [Penghitungan Angka Kredit](http://kopertis3.or.id/v2/wp-content/uploads/Prof.-Mailangkay-Penghitungan-angka-kredit.pdf)
 
 
