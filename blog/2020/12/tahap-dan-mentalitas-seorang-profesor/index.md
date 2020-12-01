@@ -17,6 +17,8 @@ Sekarang di tempat ini, saya kembali melihat cita-cita tersebut dengan lebih rea
 - Ada pendidikan
 - Ada penelitian, yang penelitian gede banget poin nya
 
+![Alur menuju profesor](https://raw.githubusercontent.com/insanalamin/insanalamin.github.io/master/blog/2020/12/tahap-dan-mentalitas-seorang-profesor/road-to-professor.svg)
+
 ## Artikel Terkait
 - [Jenjang Jabatan Fungsional Dosen dan Tips Naik Jabatan](https://www.duniadosen.com/jenjang-jabatan-fungsional-dosen/)
 
