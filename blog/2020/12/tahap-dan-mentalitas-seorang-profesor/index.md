@@ -14,6 +14,10 @@ Ketika masuk usia dewasa jalan hidup sempat berliku, dari awalnya masuk Teknik M
 
 Sekarang di tempat ini, saya kembali melihat cita-cita tersebut dengan lebih realistis, bahwa profesor atau guru besar adalah gelar akademik yang bisa diperoleh dengan syarat-syarat administratif berbasis angka kredit. Mirip dengan job system pada game MMORPG. Angka kredit dapat diperoleh dari berbagai kegiatan ataupun capaian. 
 
+- Ada pendidikan
+- Ada penelitian, yang penelitian gede banget poin nya
+
 ## Artikel Terkait
 - [Jenjang Jabatan Fungsional Dosen dan Tips Naik Jabatan](https://www.duniadosen.com/jenjang-jabatan-fungsional-dosen/)
+
 
