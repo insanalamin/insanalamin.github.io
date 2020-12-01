@@ -9,3 +9,5 @@ Ketika SD dulu, di jemputan kantor bapak ku, teman-teman bapak bertanya cita-cit
 Sejak saat itu, cita-cita tersebut tertanam di bawah sadarku. Profesor adalah gelar tertinggi akademik, dan KH. adalah panggilan kepada ahli agama. Artinya seorang Prof. Dr. KH. ahli dalam bidang agama dan dalam bidang keilmuannya.
 
 Ketika masuk usia dewasa jalan hidup sempat berliku, dari awalnya masuk Teknik Mesin ITB, lalu terpaksa harus mengundurkan diri setelah enam tahun kuliah. Kemteudian lanjut di jurusan Teknik Mesin Unjani, sambil bekerja di Bappeda Provinsi Jawa Barat sejak 2015 menggunakan ijazah SMA sebagai programmer. Beberapa event di 2017 menguatkan kembali cita-cita yang sempat terkubur tersebut. Masuk S2 Informatika ITB, lalu setelah lulus di 2019, mencoba mendaftar sebagai dosen di beberapa kampus.
+
+Sekarang di tempat ini, saya kembali melihat cita-cita tersebut dengan lebih realistis, bahwa profesor atau guru besar adalah gelar akademik yang bisa diperoleh dengan syarat-syarat administratif berbasis angka kredit. Mirip dengan job system pada game MMORPG. Angka kredit dapat diperoleh dari berbagai kegiatan ataupun capaian. 
