@@ -17,6 +17,7 @@ published: true
 - OBS Studio
 - Reveal JS
 - Inkscape
+- Kdenlive
 - GIMP
 - Blender
 
