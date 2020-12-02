@@ -18,9 +18,17 @@ Muhammad **[In](https://id.linkedin.com/in/insan-al-amin)san** Al-Amin
 
 ## Amost always imports
 
-|  R |  Python |    Matlab |
-| --------- |:---|:---------|:-----|
-| library(tidyverse) |import numpy as np|
+
+|----|---|---|
+| type|name |description |
+| *address* | _user | address of certificate owner |
+| *bytes32* | _hash | sha256 hash of the certificate text |
+
+
+| type|name |description |
+|----|---|---|
+| *address* | _user | address of certificate owner |
+| *bytes32* | _hash | sha256 hash of the certificate text |
 
 
 ## Tautan
