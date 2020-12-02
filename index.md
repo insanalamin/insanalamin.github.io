@@ -16,6 +16,13 @@ Muhammad **[In](https://id.linkedin.com/in/insan-al-amin)san** Al-Amin
 
 > Progres per lima menit
 
+## Amost always imports
+
+|  R |  Python |    Matlab |
+| --------- |:---|:---------|:-----|
+| library(tidyverse) |import numpy as np|
+
+
 ## Tautan
 - [Home](https://insanalamin.github.io)
 - [Otak-atik](/skill)
