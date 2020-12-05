@@ -30,7 +30,7 @@ Muhammad **[In](https://id.linkedin.com/in/insan-al-amin)san** Al-Amin
 - [RND](/research)
 - [Ide](/ideas)
 - [Blog](/blog)
-- [Timeline](/timeline)
+- [Bacaan](/books)
 - [VMCVS](/vmcvs)
 - [Timeline](/timeline)
 - [Puisi](/poetry)
