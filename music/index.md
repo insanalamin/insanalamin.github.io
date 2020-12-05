@@ -75,6 +75,7 @@ title: Playlist Musik
 - [Armin van Buuren & D7 Shah feat. Chris Jones - Going Wrong](https://www.youtube.com/watch?v=JahA00JV304)
 - [Toltec - Ray of Hope (Inverse Ratio Chillout Mix)](https://music.youtube.com/watch?v=1l8pEH1eIDo)
 - [Bingo Players - Cry (Just A Little)](https://www.youtube.com/watch?v=a--8JigM78c)
+- [Avicii - The Days](https://www.youtube.com/watch?v=JDglMK9sgIQ)
 
 
 - [Money G - Du bist nicht du (Dream Dance Vol 60)](https://www.youtube.com/watch?v=Tvej1SdOHB0)
