@@ -7,3 +7,4 @@ title: Bacaan
 - [How to Write a Lot]()
 - [Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded]()
 - [The Oxford Book of Modern Science Writing]()
+- [Scientific Paper Writing - A Survival Guide]()
