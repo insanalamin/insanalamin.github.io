@@ -3,7 +3,7 @@ title : Ide-ide
 layout : default
 ---
 
-## Aplikasi
+## Antrian Aplikasi Untuk Dibuat
 - [Progres per 5 menit](https://insanalamin.github.io/ideas/progres-per-5-menit/)
 
 ## Antrian Paper Untuk Ditulis
