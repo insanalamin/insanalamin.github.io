@@ -7,7 +7,13 @@ published: true
 - [Mengajar](/skill/lecturing/)
 - Riset
 
-## Pemodelan
+## Spesialisasi
+- Smart city
+- Digital identification
+- Human activity recognition
+- Geographic information system
+
+## Bahasa Pemodelan
 - Python
 - C
 - C++
@@ -38,6 +44,3 @@ published: true
 - Artificial intelligence
 - GIS
 
-<section data-markdown>
-  ## Sedang apa
-</section>
