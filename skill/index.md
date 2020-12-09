@@ -12,6 +12,7 @@ published: true
 - Digital identification
 - Human activity recognition
 - Geographic information system
+- Digital learning
 
 ## Bahasa Pemodelan
 - Python
