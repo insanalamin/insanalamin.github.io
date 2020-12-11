@@ -24,6 +24,7 @@ published: true
 - OBS Studio
 - Reveal JS
 - Inkscape
+- Natron
 - Kdenlive
 - GIMP
 - Blender
