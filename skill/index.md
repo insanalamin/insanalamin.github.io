@@ -9,6 +9,7 @@ published: true
 
 ## Spesialisasi
 - Smart city
+- AI surveillance
 - Digital identification
 - Human activity recognition
 - Geographic information system
