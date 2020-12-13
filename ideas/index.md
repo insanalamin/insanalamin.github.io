@@ -33,7 +33,7 @@ layout : default
 ## Antrian Sistem Untuk Dibuat
 - [Progres per 5 menit](https://insanalamin.github.io/ideas/progres-per-5-menit/)
 - Gamifikasi ketercapaian amanah harian
-- sistem rumah 'hidup', yg kirim notifikasi untuk event2 tertentu, pake beragam sensor, mic, n kamera. Deteksi otomatis objek, dsb. linux server / raspberry pi, esp, object detection, speech generation, dsb.
+- sistem rumah 'hidup', yg kirim notifikasi untuk event2 tertentu, pake beragam sensor, mic, n kamera. Deteksi otomatis objek, dsb. linux server / raspberry pi, esp, object detection, speech generation, dsb. untuk di gunung
 
 ## Antrian Paper Untuk Ditulis
 - Pemrosesan filtering bansos covid 19 pake teknologi big data
@@ -52,3 +52,4 @@ layout : default
 - Bikin automatic behavior recognition untuk deteksi kelakuan vandalism di lift [terutama pola2 orang maksa nahan pintu lift pake tangan]kin 
 - Bikin deteksi sensor kehidupan non video untuk di hotel dan di rumah yang terhubung dengan security
 - Browser berbasis terminal yg otomatis ngedeteksi konten judul dan utama halaman web
+- Titik sejarah spatiotemporal, dilengkapi dengan penulis, sumber, dsb.
