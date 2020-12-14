@@ -53,3 +53,4 @@ layout : default
 - Bikin deteksi sensor kehidupan non video untuk di hotel dan di rumah yang terhubung dengan security
 - Browser berbasis terminal yg otomatis ngedeteksi konten judul dan utama halaman web
 - Titik sejarah spatiotemporal, dilengkapi dengan penulis, sumber, dsb.
+- Deteksi objek di malam hari
