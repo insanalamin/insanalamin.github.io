@@ -1,4 +1,6 @@
-## On Going
+## Sedang Dikerjakan
 - [Night Surveillance - Object Detection](/research/surveillance/night-object-detection/)
 
-## Waiting List
+## Untuk Dikerjakan
+
+## Telah Publikasi
