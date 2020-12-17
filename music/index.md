@@ -12,6 +12,10 @@ title: Playlist Musik
 - [Groove Bandit - Dancing in The Rain]()
 - Avatar - Sorry
 
+### Religi
+- Bimbo - Jihad
+- Nada Kantjana - Yaumal Kiamat
+
 ## Jepang
 
 ### L'Arc-en-Ciel
