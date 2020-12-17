@@ -14,7 +14,7 @@ title: Playlist Musik
 
 ### Religi
 - [Bimbo - Jihad](https://www.youtube.com/watch?v=ybmFo0gf8_k)
-- Nada Kantjana - Yaumal Kiamat
+- [Nada Kantjana - Yaumal Kiamat](https://www.youtube.com/watch?v=-hID21z5Mps)
 
 ## Jepang
 
