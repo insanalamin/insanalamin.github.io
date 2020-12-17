@@ -4,8 +4,12 @@ title: Playlist Musik
 
 ## Indonesia
 
+### Homogenic
+- Hilang
+
 ### Underrated
 - [Groove Bandit - Dancing in The Rain]()
+- Avatar - Sorry
 
 ## Jepang
 
