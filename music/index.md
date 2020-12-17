@@ -13,7 +13,7 @@ title: Playlist Musik
 - Avatar - Sorry
 
 ### Religi
-- Bimbo - Jihad
+- [Bimbo - Jihad](https://www.youtube.com/watch?v=ybmFo0gf8_k)
 - Nada Kantjana - Yaumal Kiamat
 
 ## Jepang
