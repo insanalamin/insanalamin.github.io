@@ -5,7 +5,8 @@ title: Playlist Musik
 ## Indonesia
 
 ### Homogenic
-- Hilang
+- [Hilang](https://www.youtube.com/watch?v=m_bkVKVg1m0)
+- [Akhir Episode Pop](https://www.youtube.com/watch?v=5T5mXsHJxhI)
 
 ### Underrated
 - [Groove Bandit - Dancing in The Rain]()
