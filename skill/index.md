@@ -22,6 +22,7 @@ published: true
 - Modelica
 
 ## Pembelajaran Multimedia
+- [Explainer Video](/skill/multimedia-learning/explainer-video-kdenlive-inkscape/)
 - OBS Studio
 - Reveal JS
 - Inkscape
