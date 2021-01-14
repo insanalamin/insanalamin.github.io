@@ -3,6 +3,7 @@ title : Amanah Quest
 ---
 
 ## Deskripsi Game
+Game untuk produktif di dunia nyata
 
 ### Profil Karakter
 - Ada total utang amanah
@@ -18,3 +19,8 @@ title : Amanah Quest
 ### Sistem Monster
 - Tingkat kesusahan monster ala Skyrim
 - Ada juga monster spirit semisal Procrastination
+
+### Sistem Rumah
+- Bisa nata rumah sendiri
+- Komplek, apartment, ato pemukiman
+- Bisa jual rumah di lokasi premium
