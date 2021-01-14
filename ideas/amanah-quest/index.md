@@ -4,6 +4,8 @@ title : Amanah Quest
 
 ## Deskripsi Game
 Game untuk produktif di dunia nyata
+- Ceklis2 amanah
+- Saling menyemangati ketika kongkow
 
 ### Profil Karakter
 - Ada total utang amanah
