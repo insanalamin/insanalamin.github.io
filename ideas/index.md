@@ -32,7 +32,7 @@ layout : default
 
 ## Antrian Sistem Untuk Dibuat
 - [Progres per 5 menit](https://insanalamin.github.io/ideas/progres-per-5-menit/)
-- Gamifikasi ketercapaian amanah harian
+- [Gamifikasi ketercapaian amanah harian (Amanah Quest)](https://insanalamin.github.io/ideas/amanah-quest/)
 - sistem rumah 'hidup', yg kirim notifikasi untuk event2 tertentu, pake beragam sensor, mic, n kamera. Deteksi otomatis objek, dsb. linux server / raspberry pi, esp, object detection, speech generation, dsb. untuk di gunung
 
 ## Antrian Paper Untuk Ditulis
