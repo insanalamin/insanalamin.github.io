@@ -14,3 +14,7 @@ title : Amanah Quest
 - Ada level town / village / kota , misal kabupaten bandung
 - Ada level komplek / apartment
 - Ada level unit bangunan dimana ada sistem channel / room, dan semua pemain yang ada bisa saling lihat dan chat
+
+### Sistem Monster
+- Tingkat kesusahan monster ala Skyrim
+- Ada juga monster spirit semisal Procrastination
