@@ -37,6 +37,8 @@ title: Playlist Musik
 - [Tube - Sky High]()
 - [Janne Da Arc - Heaven]()
 - [Janne Da Arc - Shining Ray](https://music.youtube.com/watch?v=mXkCSuNGBso)
+- [Bump For Chicken - Sailing Day]()
+- [Rie Fu - Life is Like a Boat](https://www.youtube.com/watch?v=twZquow01Po)
 - [Coming Century - Breakthrough (OST Eyeshield 21)](https://www.youtube.com/watch?v=X2OJodBxZg8)
 - [Nana Kitade - Kesenai Tsumi (OST Full Metal Alchemist)](https://www.youtube.com/watch?v=dNWTmSvaZ74)
 - [Tatsuro Yamashita - Mermaid](https://www.youtube.com/watch?v=I_WhqfBouPw)
