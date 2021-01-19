@@ -11,6 +11,7 @@ Game untuk produktif di dunia nyata
 - Ada total utang amanah
 - Ada statistik amanah yang dikerjakan
 - Ada sistem job dan task berbasis dunia nyata
+- Ada mood system
 
 ### Question Board
 - Ada sistem question answer board di bangunan tertentu
