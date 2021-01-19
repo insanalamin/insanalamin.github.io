@@ -12,6 +12,11 @@ Game untuk produktif di dunia nyata
 - Ada statistik amanah yang dikerjakan
 - Ada sistem job dan task berbasis dunia nyata
 
+### Question Board
+- Ada sistem question answer board di bangunan tertentu
+- Tiap player punya jatah lempar question
+- Ada sistem reputasi
+
 ### Sistem Area
 - Area tertinggi level negara ala suikoden
 - Ada level town / village / kota , misal kabupaten bandung
