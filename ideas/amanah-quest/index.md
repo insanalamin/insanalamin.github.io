@@ -4,8 +4,9 @@ title : Amanah Quest
 
 ## Deskripsi Game
 Game untuk produktif di dunia nyata
-- Ceklis2 amanah
-- Saling menyemangati ketika kongkow
+- Ceklis2 amanah dilakukan secara lokal dan offline
+- Saling menyemangati ketika kongkow dilakukan secara online
+- Rekapitulasi progres amanah dibawa ketika online
 
 ### Profil Karakter
 - Ada total utang amanah
