@@ -43,7 +43,13 @@ title: Playlist Musik
 - [Nana Kitade - Kesenai Tsumi (OST Full Metal Alchemist)](https://www.youtube.com/watch?v=dNWTmSvaZ74)
 - [Tatsuro Yamashita - Mermaid](https://www.youtube.com/watch?v=I_WhqfBouPw)
 
-## World
+## Dunia
+
+### Linkin Park
+- [Linkin Park - Pushing Me Away](https://www.youtube.com/watch?v=Ve1LNJEIKUE)
+- [Linkin Park - Leave Out All The Rest](https://www.youtube.com/watch?v=yZIummTz9mM)
+
+### Angels And Airwaves
 
 ### Cafe Del Mar
 
@@ -113,7 +119,7 @@ title: Playlist Musik
 - [Far East Movement - Rocketeer](https://www.youtube.com/watch?v=NyJBR_C6D38)
 - [Gym Class Heroes - Cookie Jar](https://www.youtube.com/watch?v=c9q8p5rQPKI)
 - [David Guetta - Without You ft. Usher](https://www.youtube.com/watch?v=jUe8uoKdHao)
-- []()
+- [Justin Bieber - Next To You](https://www.youtube.com/watch?v=EEuQU6a90Pc)
 - []()
 - []()
 - []()
