@@ -5,7 +5,7 @@ layout: default
 
 ## Profil
 Muhammad **[In](https://id.linkedin.com/in/insan-al-amin)san** Al-Amin
-- Tri dharma apprentice
+- Tri dharma disciple
 - Part time data engineer & [app developer](https://negeriku.id)
 - Simpatisan open source & [open learning](https://mecha.id)
 
