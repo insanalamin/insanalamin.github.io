@@ -4,6 +4,9 @@ title: Playlist Musik
 
 ## Indonesia
 
+### Campur
+- [Java Jive - Buah Hati](https://www.youtube.com/watch?v=X9tAjfAj02M)
+
 ### Homogenic
 - [Hilang](https://www.youtube.com/watch?v=m_bkVKVg1m0)
 - [Akhir Episode Pop](https://www.youtube.com/watch?v=5T5mXsHJxhI)
@@ -32,7 +35,7 @@ title: Playlist Musik
 - [My Little Lover - Stardust](https://www.youtube.com/watch?v=eaD4hJjlVPs)
 - [My Little Lover - Evergreen](https://www.youtube.com/watch?v=Ohf_3wJVfw8)
 
-### Mix
+### Campur
 - [YUI - Life](https://www.youtube.com/watch?v=bvTVynFMI-Y)
 - [Tube - Sky High]()
 - [Janne Da Arc - Heaven]()
