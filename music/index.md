@@ -15,6 +15,10 @@ title: Playlist Musik
 - [Groove Bandit - Dancing in The Rain]()
 - Avatar - Sorry
 
+### Koes Ploes
+- [Derita]
+- [Ku Jemu]
+
 ### Religi
 - [Bimbo - Jihad](https://www.youtube.com/watch?v=ybmFo0gf8_k)
 - [Nada Kantjana - Yaumal Kiamat](https://www.youtube.com/watch?v=-hID21z5Mps)
