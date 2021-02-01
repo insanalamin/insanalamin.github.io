@@ -6,6 +6,8 @@ title: Playlist Musik
 
 ### Campur
 - [Java Jive - Buah Hati](https://www.youtube.com/watch?v=X9tAjfAj02M)
+- [Pure Saturday = Nyala](https://www.youtube.com/watch?v=fJulZM6cW-E)
+- [The Milo - For All The Dreams That Wings Could Fly](https://www.youtube.com/watch?v=KVzMhjlZkBs)
 
 ### Homogenic
 - [Hilang](https://www.youtube.com/watch?v=m_bkVKVg1m0)
