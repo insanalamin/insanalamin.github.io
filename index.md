@@ -7,7 +7,7 @@ layout: default
 Muhammad **[In](https://id.linkedin.com/in/insan-al-amin)san** Al-Amin
 - Tri dharma apprentice
 - Part time data engineer & [app developer](https://negeriku.id)
-- Pegiat open source & [open course](https://mecha.id)
+- Simpatisan open source & [open learning](https://mecha.id)
 
 ## Kata-kata mutiara
 > Tiap posisi, keadaan, dan kejadian, ada untuk mendekatkan diri kepada Allah
