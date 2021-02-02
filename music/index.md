@@ -6,7 +6,7 @@ title: Playlist Musik
 
 ### Campur
 - [Java Jive - Buah Hati](https://www.youtube.com/watch?v=X9tAjfAj02M)
-- [Pure Saturday = Nyala](https://www.youtube.com/watch?v=fJulZM6cW-E)
+- [Pure Saturday - Nyala](https://www.youtube.com/watch?v=fJulZM6cW-E)
 - [The Milo - For All The Dreams That Wings Could Fly](https://www.youtube.com/watch?v=KVzMhjlZkBs)
 
 ### Homogenic
@@ -44,7 +44,7 @@ title: Playlist Musik
 ### Campur
 - [YUI - Life](https://www.youtube.com/watch?v=bvTVynFMI-Y)
 - [Tube - Sky High]()
-- [Janne Da Arc - Heaven]()
+- [Janne Da Arc - Heaven](https://www.youtube.com/watch?v=mJMll7qxjFc)
 - [Janne Da Arc - Shining Ray](https://music.youtube.com/watch?v=mXkCSuNGBso)
 - [Bump For Chicken - Sailing Day]()
 - [Rie Fu - Life is Like a Boat](https://www.youtube.com/watch?v=twZquow01Po)
