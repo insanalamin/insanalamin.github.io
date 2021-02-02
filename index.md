@@ -19,6 +19,8 @@ Muhammad **[In](https://id.linkedin.com/in/insan-al-amin)san** Al-Amin
 ## Wall
 > 20 Februari 2021 - Lagi menikmati interaksi dengan bahasa Rust untuk optimasi macem-macem task, dan eksplorasi teknologi open source untuk bikin animasi pembelajaran dengan cepet
 
+> Dari blog : [Arah Gerak Detik Ini dan Hari Depan - 20 Februari 2021](blog/2021/02/arah-gerak-detik-ini-dan-hari-depan/index.md)
+
 ## Tautan
 - [Home](https://insanalamin.github.io)
 - [Otak-atik](/skill)
