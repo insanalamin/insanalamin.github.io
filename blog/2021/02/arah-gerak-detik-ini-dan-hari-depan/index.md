@@ -22,7 +22,7 @@ Impian / euforia ambisi tiap saat saya sekarang :
 - Menjadi suami yang baik
 - Menjadi ayah yang baik
 
-Impian-impian ini harus lebih diprioritaskan daripada *Keinginan di Hari Depan* di bawah ini
+Prioritas Impian Tiap Saat di atas Keinginan di Hari Depan.
 
 ## Keinginan di Hari Depan
 Semoga keinginan-keinginan ini, meski awalnya karena dunia, semoga jadi jalan yang baik untuk kebahagiaan akhirat :
@@ -38,3 +38,5 @@ Semoga keinginan-keinginan ini, meski awalnya karena dunia, semoga jadi jalan ya
 - Membangun layanan digital yang menghasilkan pendapatan pasif
 
 Mungkin PR nya adalah mendetailkan keinginan-keinginan hari depan ini, agar bisa dipersiapkan dari sekarang.
+
+Prioritas Keinginan di Hari Depan di bawah Impian Tiap Saat.
