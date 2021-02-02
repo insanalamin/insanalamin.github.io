@@ -22,6 +22,8 @@ Impian / euforia ambisi tiap saat saya sekarang :
 - Menjadi suami yang baik
 - Menjadi ayah yang baik
 
+Impian-impian ini harus lebih diprioritaskan daripada *Keinginan di Hari Depan* di bawah ini
+
 ## Keinginan di Hari Depan
 Semoga keinginan-keinginan ini, meski awalnya karena dunia, semoga jadi jalan yang baik untuk kebahagiaan akhirat :
 - Menjadi profesor di bidang terkait AI yang bermanfaat dan memberi kebaikan bagi hidup manusia :
