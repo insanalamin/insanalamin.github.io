@@ -15,3 +15,24 @@ Impian tentang capaian dunia boleh, apalagi kalau berkaitan dengan kebermanfaata
 Namun, tidak cukup hidup di detik ini. Perlu ada mekanisme pemrioritasan, penjadwalan, dan perencanaan. Karena kita harus amanah, dan amanah akan selalu tertunda lama apabila tidak ada mekanisme-mekanisme tersebut.
 
 Tujuan penciptaan manusia adalah untuk beribadah kepada Allah. Dan tidak bisa dipungkiri dari lubuk hati terdalam, manusia ingin bahagia dunia akhirat. Maka satu-satunya jalan meraih kebahagiaan dunia akhirat adalah dengan beribadah kepada Allah. 
+
+Impian / euforia ambisi tiap saat saya sekarang :
+- Khusyuk dalam solat
+- Menjadi orang yang amanah
+- Menjadi suami yang baik
+- Menjadi ayah yang baik
+
+## Keinginan di Hari Depan
+Semoga keinginan-keinginan ini, meski awalnya karena dunia, semoga jadi jalan yang baik untuk kebahagiaan akhirat :
+- Menjadi profesor di bidang terkait AI yang bermanfaat dan memberi kebaikan bagi hidup manusia :
+  - Membuat tayangan review paper dan teknologi sekaligus televisi edukatif
+  - Konsisten publikasi paper
+  - Menapaki computer vision
+  - Menapaki natural language processing
+  - Menapaki algoritma-algoritma terbaru
+- Membangun media edukatif yang menjadi amal jariyah, terbuka untuk siapa saja :
+  - Menapaki Blender & Unity
+  - Terus membangembangkan portal media edukasi online
+- Membangun layanan digital yang menghasilkan pendapatan pasif
+
+Mungkin PR nya adalah mendetailkan keinginan-keinginan hari depan ini, agar bisa dipersiapkan dari sekarang.
