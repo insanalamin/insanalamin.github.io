@@ -33,5 +33,6 @@ Muhammad **[In](https://id.linkedin.com/in/insan-al-amin)san** Al-Amin
 - [Kampus Zero Dropout](https://mecha.id)
   - [Mata kuliah](https://mechaid.github.io/course-materials/)
   - [Wiki](https://mechaid.github.io/wiki/)
+  - [Workshops](https://mechaid.github.io/workshops/)
   - [Mecha TV](https://www.youtube.com/channel/UCAHKfmOwqZrShZ3SPhReqtg)
 - [Negeriku.id](https://negeriku.id)
