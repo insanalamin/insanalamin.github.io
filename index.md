@@ -16,6 +16,9 @@ Muhammad **[In](https://id.linkedin.com/in/insan-al-amin)san** Al-Amin
 
 > Progres per lima menit
 
+## Wall
+> Lagi menikmati interaksi dengan bahasa Rust untuk optimasi macem-macem task, dan eksplorasi teknologi open source untuk bikin animasi pembelajaran dengan cepet
+
 ## Tautan
 - [Home](https://insanalamin.github.io)
 - [Otak-atik](/skill)
