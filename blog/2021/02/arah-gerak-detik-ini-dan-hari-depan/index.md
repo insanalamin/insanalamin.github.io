@@ -1,5 +1,6 @@
 ---
 title: Arah Gerak Detik Ini dan Hari Depan
+date: 2020-02-02
 ---
 
 ## Hidup Detik Ini
@@ -9,3 +10,6 @@ Kematian dapat mendatangi setiap saat. Media dan kabar berita mengajarkan kepada
 
 Artinya, euforia saya janganlah terhadap revolusi industri 4.0, pencapaian bonus kapal pesiar, atau rancangan penggapaian mimpi jadi profesor di masa depan. Bertahun saya coba jalani hidup penuh ambisi menggapai mimpi, dunia. Ya, beberapa tercapai, beberapa menuju. Tapi itu sama sekali tidak mengamankan posisi saya sebagai makhluk, karena ambisi menggebu kemungkinan membuat lupa niat karena Allah, bahkan membuat lupa berbagai ibadah dan implementasi akhlak. Euforia saya haruslah terhadap detik ini, terhadap pengusahaan amanah, akhlak yang baik, dan kedisiplinan ibadah.
 
+Impian tentang capaian dunia boleh, apalagi kalau berkaitan dengan kebermanfaatan dan kebaikan bagi orang banyak, namun bingkainya bukan ambisi menggebu, tapi semata-mata mengharapkan ridha Allah. Sangat mudah tergelincir dari niat awal yang baik, menjadi ambisi menggebu, lupa akhlak lupa tatanan.
+
+Namun, tidak cukup hidup di detik ini. Perlu ada mekanisme pemrioritasan, penjadwalan, dan perencanaan. Karena kita harus amanah, dan amanah akan selalu tertunda lama apabila tidak ada mekanisme-mekanisme tersebut.
