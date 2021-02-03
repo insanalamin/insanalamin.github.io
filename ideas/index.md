@@ -56,3 +56,11 @@ layout : default
 - Browser berbasis terminal yg otomatis ngedeteksi konten judul dan utama halaman web
 - Titik sejarah spatiotemporal, dilengkapi dengan penulis, sumber, dsb.
 - Deteksi objek di malam hari
+
+## Nulis Buku
+- NPM Untuk Pengembangan Web Frontend
+- D3 js Untuk Visualisasi Data Interaktif
+- Rust Untuk Pemula
+- PostGIS dan Geoserver Untuk Pembangunan Map Service Skala Besar
+- Konsep dan Aplikasi Deep Learning
+- Build System di C++
