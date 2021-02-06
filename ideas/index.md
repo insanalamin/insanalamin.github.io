@@ -64,3 +64,4 @@ layout : default
 - PostGIS dan Geoserver Untuk Pembangunan Map Service Skala Besar
 - Konsep dan Aplikasi Deep Learning
 - Build System di C++
+- Selenium Untuk Web Scraping
