@@ -65,3 +65,4 @@ layout : default
 - Konsep dan Aplikasi Deep Learning
 - Build System di C++
 - Selenium Untuk Web Scraping
+- Kecerdasan Buatan - Konsep dan Aplikasi
