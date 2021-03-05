@@ -77,6 +77,9 @@ layout: default
 - MacGyver di RCTI. Begitupun Saint Seiya
 - Adik lahir
 - KFC Metro sudah ada, ayamnya enak, saus tomatnya selalu keingat
+- Pohon belimbing rumah ciwastra
+- Mandi air anget di jolang hitam tiap sore dibuatin mamih
+- Mainin radio punya sepupu
 
 ## 1992
 - Ui, Esti, Meni. Sepertinya mereka bersodara. Rumahnya besar, berdiri di lebih dari satu level ketinggian tanah. Arsitektur ala 80 an
