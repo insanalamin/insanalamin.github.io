@@ -51,11 +51,15 @@ layout: default
 - Di rumah, cukup gelap, meja makan, sepertinya sedang liburan. Gukguk.com. Diiringi musik seperti Goodnight Electric atau The Upstairs. Sepertinya bagus kalau ada pilihan Indonesia, Barat, dan Jepang.
 
 ## 2006
+- Pendaftaran unit-unit
+- Perkenalan ke himpunan
 - Udara pagi [ITB](https://www.itb.ac.id/),, jalanan yang dipenuhi bercak-bercak putih burung koak
+- Pemilihan ketua angkatan SMA di ITB
 
 ## 2005
 
 ## 2004
+- Malam momen pengumuman juara Light of Electrical Dreams 2004. Makanan-makanan, panitia-panitia, Aula Timur, naik ke panggung menerima piala dan uang, momen kegembiraan.
 
 ## 2003
 
