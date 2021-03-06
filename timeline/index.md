@@ -65,6 +65,7 @@ layout: default
 ## 2001
 
 ## 2000
+- Diablo adalah sebuah permainan di PC. Sebuah rumah di jalan Kopo pusat aneka pengetahuan terkait game, dan satu magnet yang berputar.
 
 ## 1999
 
@@ -95,8 +96,11 @@ layout: default
 - Pemilu 1992, momen ketika mamah mau nyoblos, menangis keras karena tidak dibolehkan ikut masuk ke bilik pencoblosan. Akhirnya panitia mengalihkan perhatian dengan menyuruh baca tulisan-tulisan spanduk disitu. Kalo diinget-inget, warna area pemungutan suara didominasi kain spanduk biru
 
 ## 1991
+- Menghadiri pernikahan bibi, nuansa seragam nikahan berwarna hijau. Entah naik apa kesana. 
 
 ## 1990
+- Kasura di kawasan Margahayu Raya. 
+- Dimandikan di halaman rumah kakek nenek. Daun pandan itu hijau, tembok itu abu-abu, suasana sepertinya senja.
 
 ## 1989
 
