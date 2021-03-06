@@ -37,6 +37,7 @@ layout: default
 
 ## 2011
 - NAV adalah linkin park, peterpan, green day, simple plan, blink 182, good charlotte
+- Sebuah bangunan pemerintahan. Didominasi warna putih, cokelat, dan hijau. Kebetulan bertemu salah seorang guru SMA di sana kalau tidak salah mengantar anaknya. Dilanjutkan mengeruk-ngeruk tong sampah bersama Galih yang ketika itu rumahnya masih di kawasan nama-nama kabupaten
 - Semarak kawasan Dago Plaza di pergantian tahun 2010-2011, beribu berbondong-bondong, beragam komunitas
 
 ## 2010
