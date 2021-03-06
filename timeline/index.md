@@ -5,6 +5,9 @@ layout: default
 
 > Timeline hidup adalah media introspeksi. Media untuk sadar bahwa kehidupan berlalu sangat cepat. Bahwa manusia tidak boleh lupa dengan tujuan hidupnya.
 
+## 2021
+- Seorang anak bayi, dengan segala aroma khasnya, terkadang merangkak kesana kemari, terkadang buka-buka lemari, terkadang digendong diayun ayun.
+
 ## 2020
 
 ## 2019
