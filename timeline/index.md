@@ -25,6 +25,7 @@ layout: default
 ## 2015
 
 ## 2014
+- Jalan Mangga adalah kawasan asri dan tenteram di tengah kota. Sebuah kostan di lantai dua. Masuknya melintasi rumah sebuah keluarga besar. Tidak banyak yang dilakukan di dalamnya selain tidur. Namun, jalan di depannya menyimpan rasa tersendiri tentang pagi cerah, tentang komunitas yang tenang, tentang kenyataan bahwa lokasinya ada di tengah kota.
 
 ## 2013
 
