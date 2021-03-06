@@ -66,6 +66,8 @@ layout: default
 - Naik kelas XI. Mengawali hari Minggu dengan beberes kelas bersama teman-teman baru. Lantai hitam, bangku meja cokelat, pinggir perpustakaan, depan WC, agak sebelahan kantin. Kantin yang ketika itu semi outdoor dan sedang kosong sehingga bisa duduk-duduk. Beberapa teman baru hadir untuk ikut bebersih. 
 
 ## 2003
+- Perkenalan dengan teater, panggung, seni peran, senam wajah, dan bentuk-bentuk ospek sanggar seni kabaret. Teman-teman baru, sesama kelas 3 SMP, para anak-anak SMA, gedung Rumentang Siang, aneka kegiatan di belakang panggung. 
+- Lapangan Saparua seperti tempat main sehari-hari. Sony Ericsson yang kameranya masih terpisah. Aneka pedagang, beberapa menjual poster artis yang terkenal ketika itu contohnya Avril Lavigne. 
 
 ## 2002
 - [Sao Jose Dos Campos](https://www.sjc.sp.gov.br/)
@@ -74,6 +76,7 @@ layout: default
 
 ## 2000
 - Diablo adalah sebuah permainan di PC. Sebuah rumah di jalan Kopo pusat aneka pengetahuan terkait game, dan satu magnet yang berputar.
+- Pertama kali masuk SMP, berkenalan dengan teman-teman baru dari berbagai SD. Rohani. Taman Kartini, sekolah ibu, warisan bangunan masa lalu, beragam kisah, dan kelas pojok yang dari luar hanya pintu. Teman-teman yang ketika ini mewarnai beragam posisi. Ternyata sopir tidak hanya ada di film. Tidak hanya dengan teman seangkatan, gaul juga dengan kakak-kakak kelas. Ketika itu, kakak kelas ibarat posisi tinggi yang memiliki kewenangan lebih banyak.
 
 ## 1999
 
