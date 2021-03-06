@@ -36,6 +36,8 @@ layout: default
 - Sebuah gym di kawasan Dago. Lengkap mulai renang, jacuzzi, fitness, yoga, sauna, dsb. Menjadi rutinitas mingguan melepas penat, melatih raga.
 
 ## 2011
+- NAV adalah linkin park, peterpan, green day, simple plan, blink 182, good charlotte
+- Semarak kawasan Dago Plaza di pergantian tahun 2010-2011, beribu berbondong-bondong, beragam komunitas
 
 ## 2010
 - JujurMedia. Petualangan bersama Galih dan Destri ke salah satu jaringan tempat menginap dan tempat tinggal di Bandung.
