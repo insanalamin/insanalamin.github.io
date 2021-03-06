@@ -63,6 +63,7 @@ layout: default
 
 ## 2004
 - Malam momen pengumuman juara Light of Electrical Dreams 2004. Makanan-makanan, panitia-panitia, Aula Timur, naik ke panggung menerima piala dan uang, momen kegembiraan.
+- Naik kelas XI. Mengawali hari Minggu dengan beberes kelas bersama teman-teman baru. Lantai hitam, bangku meja cokelat, pinggir perpustakaan, depan WC, agak sebelahan kantin. Kantin yang ketika itu semi outdoor dan sedang kosong sehingga bisa duduk-duduk. Beberapa teman baru hadir untuk ikut bebersih. 
 
 ## 2003
 
