@@ -29,6 +29,7 @@ layout: default
 ## 2013
 
 ## 2012
+- Sebuah gym di kawasan Dago. Lengkap mulai renang, jacuzzi, fitness, yoga, sauna, dsb. Menjadi rutinitas mingguan melepas penat, melatih raga.
 
 ## 2011
 
@@ -37,8 +38,10 @@ layout: default
 - Dari depan kamar di satu kosan sekitar lembah Cihampelas ketika malem, hamparan pemukiman dengan titik-titik lampu kuning dan putih. Lampu-lampu Sabuga, gelap pepohonan di Babakan Siliwangi hingga kebun binatang bandung, hingga corak kota dibalik pemandangan jembatan Pasopati dan Ciwalk.
 
 ## 2009
+- Malam-malam, di sebuah rumah makan padang sekitaran tamansari dekat Unisba. Bersama Kang Agus, Teguh dan Galih. Beberapa kesimpulan tentang hidup. Beberapa rencana.
 
 ## 2008
+- Sebuah perjalanan ke ujung timur kawasan Bandung Raya menuju sore yang mendung. Setelah sebelumnya meliput beberapa cerita terkait hukum di kawasan Dipatiukur.
 
 ## 2007
 - Di rumah, cukup gelap, meja makan, sepertinya sedang liburan. Gukguk.com. Diiringi musik seperti Goodnight Electric atau The Upstairs. Sepertinya bagus kalau ada pilihan Indonesia, Barat, dan Jepang.
