@@ -24,6 +24,9 @@ layout : default
 - Bikin buku berbahasa Indonesia: ReactJS, D3js, Rust, Lubuntu, dsb.
 - Bikin tayangan singkat instagram, ngilustrasiin orang yang amat euforia dengan segala kemahsyuran dunia, liat orang lain solat, tahajud, baca quran biasa aja, lalu endingnya ada tayangan meteor gede kayak jaman dinosaurus menabrak bumi
 - app internal sederhana, khusus warga untuk kalo ada keluhan ato usulan, biar langsung bisa diproses, keliatan titik-titik keluhan  nya, bisa di statistikin paling banyak masalah apa, dsb. plus denah lokasi 
+- Sistem panic button dengan keanggotaan simpen deposit jaminan
+- Bikin platform / pusat ulik teknologi-digital-baru yg jelasin konsep dasar dengan ilustrasi yang sederhana dan memudahkan mengerti
+- Diary atau log kegiatan yang otomatis ditulis AI
 
 ## Antrian Konten Untuk Dibuat
 - Video pengenalan beragam job / class yg bisa dipilih anak2 dan balita di mmorpg bernama kehidupan, agar template jawabannya tidak hanya dokter, arsitek, polisi, insinyur, astronot dan presiden. Minimal 108 job lah dibaginya.
@@ -32,7 +35,7 @@ layout : default
 
 ## Antrian Sistem Untuk Dibuat
 - [Progres per 5 menit](https://insanalamin.github.io/ideas/progres-per-5-menit/)
-- [Gamifikasi ketercapaian amanah harian (Amanah Quest)](https://insanalamin.github.io/ideas/amanah-quest/)
+- [Gamifikasi ketercapaian amanah harian + add self control poin (Amanah Quest)](https://insanalamin.github.io/ideas/amanah-quest/)
 - sistem rumah 'hidup', yg kirim notifikasi untuk event2 tertentu, pake beragam sensor, mic, n kamera. Deteksi otomatis objek, dsb. linux server / raspberry pi, esp, object detection, speech generation, dsb. untuk di gunung
 - Al-Quran terjemahan Indonesia per kalimat di host di github pake javascript, seo pake SSG, inspirasi dari http://qurandev.github.io/corpus/#!/quran-corpus/1
 - Riset NLP status galau ke ayat Quran, bisa interface chatbot, jadiin penelitian juga
