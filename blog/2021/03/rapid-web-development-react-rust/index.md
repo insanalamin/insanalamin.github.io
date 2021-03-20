@@ -4,6 +4,8 @@ date: 2020-03-20
 ---
 # Rapid Web Development Dengan React dan Rust
 
+OTOMASI, OTOMASI, OTOMASI !!!
+
 ## Strategi
 1. TULIS di repository fitur-fitur yang dibutuhkan, lalu urut berdasarkan prioritas
 2. TULIS di repository setiap use case, dan alur dari aplikasi 
