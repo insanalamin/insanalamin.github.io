@@ -11,9 +11,10 @@ date: 2020-03-20
 5. BANGUN REPOSITORY + BOILERPLATE
    - Buat shell inisialisasi app
      - Buat docker-compose.yml
+     - Buat .gitlab-ci.yml untuk CI CD
      - 4 Folder utama
-       - Frontend
-       - Backend
+       - Frontend + Dockerfile
+       - Backend + Dockerfile
        - Database
        - Layout
 6. BANGUN FRONTEND + BOILERPLATE
