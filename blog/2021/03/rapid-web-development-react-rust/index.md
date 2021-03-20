@@ -25,7 +25,7 @@ OTOMASI, OTOMASI, OTOMASI !!!
 6. BANGUN FRONTEND + BOILERPLATE
    - create-react-app --template typescript
    - Material UI untuk layout 
-   - Material UI Table untuk tabel
+   - Material UI Table untuk tabel dan tabel edit custom kayak https://github.com/emkay/material-ui-table-edit mending bikin sendiri
    - React Router untuk routing
    - React Hook Form untuk penanganan form
    - Nivo (basis d3) untuk pembuatan chart secara cepat, di websitenya bisa langsung bikin konfigurasinya
