@@ -2,6 +2,7 @@
 title: Rapid Web Development Dengan React dan Rust
 date: 2020-03-20
 ---
+# Rapid Web Development Dengan React dan Rust
 
 ## Strategi
 1. TULIS di repository fitur-fitur yang dibutuhkan, lalu urut berdasarkan prioritas
@@ -10,13 +11,15 @@ date: 2020-03-20
 4. BUAT skema database yang mewakili tiap use case
 5. BANGUN REPOSITORY + BOILERPLATE
    - Buat shell inisialisasi app
-     - Buat docker-compose.yml
-     - Buat .gitlab-ci.yml untuk CI CD
-     - 4 Folder utama
-       - Frontend + Dockerfile
-       - Backend + Dockerfile
-       - Database
-       - Layout
+   - Buat docker-compose.yml
+   - Buat .gitlab-ci.yml untuk CI CD
+   - Buat Features.md untuk list fitur-fitur yang dibutuhkan
+   - Buat Usecases.md untuk list use case dan alur aplikasi
+   - 4 Folder utama
+     - Frontend + Dockerfile
+     - Backend + Dockerfile
+     - Database
+     - Layout untuk desain
 6. BANGUN FRONTEND + BOILERPLATE
    - create-react-app --template typescript
    - Material UI untuk layout 
