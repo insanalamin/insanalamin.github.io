@@ -8,6 +8,7 @@ title: Playlist Musik
 - [Java Jive - Buah Hati](https://www.youtube.com/watch?v=X9tAjfAj02M)
 - [Pure Saturday - Nyala](https://www.youtube.com/watch?v=fJulZM6cW-E)
 - [The Milo - For All The Dreams That Wings Could Fly](https://www.youtube.com/watch?v=KVzMhjlZkBs)
+- [White Shoes & the Couples Company - Sunday Memory Lane](https://www.youtube.com/watch?v=v97vDfWlLDc)
 
 ### Homogenic
 - [Hilang](https://www.youtube.com/watch?v=m_bkVKVg1m0)
@@ -129,7 +130,7 @@ title: Playlist Musik
 - [Gym Class Heroes - Cookie Jar](https://www.youtube.com/watch?v=c9q8p5rQPKI)
 - [David Guetta - Without You ft. Usher](https://www.youtube.com/watch?v=jUe8uoKdHao)
 - [Justin Bieber - Next To You](https://www.youtube.com/watch?v=EEuQU6a90Pc)
-- []()
+- [Cash Cash - Aftershock](https://www.youtube.com/watch?v=pisxxUpS7o8)
 - []()
 - []()
 - []()
