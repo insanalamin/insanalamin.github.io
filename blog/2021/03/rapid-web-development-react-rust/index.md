@@ -36,7 +36,8 @@ OTOMASI, OTOMASI, OTOMASI !!!
 7. BANGUN BACKEND
    - cargo new
    - Warp untuk web API
-   - Serde untuk penanganan JSON 
+   - Serde untuk penanganan JSON
+   - wkhtmltopdf untuk cetak pdf
 8. Jadikan BOILERPLATE
 
 ## Kapan Eksplorasi Tools ?
