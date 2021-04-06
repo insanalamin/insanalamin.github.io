@@ -60,7 +60,11 @@ title: Playlist Musik
 - [Breaking Benjamin - Forget It](https://www.youtube.com/watch?v=W_Ny5TfVYQ0)
 - [Journey - Don't Stop Believing]
 - [Tracy Chapman - Fast Car]
+
+### Anathema
 - [Anathema - Dreaming Light](https://www.youtube.com/watch?v=0IED7Vu3AsY)
+- [Anathema - Untouchable](https://www.youtube.com/watch?v=XCke6HPpu4I)
+- [Anathema - Temporary Peace]
 
 ### Linkin Park
 - [Linkin Park - Pushing Me Away](https://www.youtube.com/watch?v=Ve1LNJEIKUE)
@@ -69,6 +73,8 @@ title: Playlist Musik
 ### Angels And Airwaves
 
 ### Cafe Del Mar
+
+### Synthwave
 
 ### Electronic
 - [Beat Foundation - My Freedom](https://www.youtube.com/watch?v=bXnxQtW3UOU&list=PLRHcTY84xEDptrPksDJuKpQ08djGbcgJ9&index=1)
@@ -113,7 +119,6 @@ title: Playlist Musik
 - [Armin Van Buuren ft. Nadia Ali - Feels So Good (Jerome Isma-Ae Remix)](https://www.youtube.com/watch?v=VVaE7m94cnA)
 - [George Acosta Feat. Kate Walsh - Nite Time](https://www.youtube.com/watch?v=JNzteUrlfq8)
 
-
 - [Money G - Du bist nicht du (Dream Dance Vol 60)](https://www.youtube.com/watch?v=Tvej1SdOHB0)
 - [Cascada - San Francisco (Frisco Extendet Mix)](https://www.youtube.com/watch?v=v7V-CzK7f0Y)
 - [Topmodelz - My Paradise (Classic Mix)](https://www.youtube.com/watch?v=FJ6rQfWi7yI&list=PL799074411F89BEDB&index=10)
@@ -123,7 +128,6 @@ title: Playlist Musik
 - [Kyau & Albert - A Night Like This](https://www.youtube.com/watch?v=lH4vXBIXNJg&list=PL799074411F89BEDB&index=26)
 - [D7 Klubbingman feat. Beatrix Delgado - Are U Ready](https://www.youtube.com/watch?v=RwKTkaiFMWg&list=PL799074411F89BEDB&index=8)
 - [Kourou feat. Sylvianne - Paradis Perdu](https://www.youtube.com/watch?v=vul-xKFMYgc&list=PL799074411F89BEDB&index=37)
-
 
 - [Rihanna - We Found Love (Audio) ft. Calvin Harris](https://www.youtube.com/watch?v=GchEVSx9XEA)
 - [Swedish House Mafia - Don't You Worry Child](https://www.youtube.com/watch?v=Xme7UbCWSq4)
