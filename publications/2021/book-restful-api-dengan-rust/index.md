@@ -21,6 +21,9 @@ __Untuk Kelas 5 SD__
   - Serde
   - Chrono
   - Printpdf
+- Tools Pengembangan
+  - Vim
+  - Docker
 - Membuat RESTful API
   - Perancangan
   - Konektivitas Database
