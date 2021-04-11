@@ -59,6 +59,7 @@ layout : default
 - Browser berbasis terminal yg otomatis ngedeteksi konten judul dan utama halaman web
 - Titik sejarah spatiotemporal, dilengkapi dengan penulis, sumber, dsb.
 - Deteksi objek di malam hari
+- Benchmark request RESTful API framework dengan resource terbatas di container kasus algoritma sorting
 
 ## Nulis Buku
 - NPM Untuk Pengembangan Web Frontend
