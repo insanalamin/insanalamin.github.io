@@ -120,6 +120,7 @@ title: Playlist Musik
 - [Armin Van Buuren ft. Nadia Ali - Feels So Good (Jerome Isma-Ae Remix)](https://www.youtube.com/watch?v=VVaE7m94cnA)
 - [George Acosta Feat. Kate Walsh - Nite Time](https://www.youtube.com/watch?v=JNzteUrlfq8)
 - [Tritonal feat. Phoebe Ryan](https://www.youtube.com/watch?v=eSSO1LfMO8w)
+- [Daughter - Youth (Love Thy Brother Remix)](https://www.youtube.com/watch?v=iG_Z2dqO68A)
 
 - [Money G - Du bist nicht du (Dream Dance Vol 60)](https://www.youtube.com/watch?v=Tvej1SdOHB0)
 - [Cascada - San Francisco (Frisco Extendet Mix)](https://www.youtube.com/watch?v=v7V-CzK7f0Y)
