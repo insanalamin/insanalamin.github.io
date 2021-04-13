@@ -61,7 +61,7 @@ layout : default
 - Deteksi objek di malam hari
 - Benchmark request RESTful API framework dengan resource terbatas di container (misal docker) kasus algoritma misal sorting
 
-## Nulis Buku
+## Antrian Buku Untuk Ditulis
 - NPM Untuk Pengembangan Web Frontend
 - D3 js Untuk Visualisasi Data Interaktif
 - Rust Untuk Pemula
