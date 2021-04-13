@@ -65,8 +65,10 @@ layout : default
 - NPM Untuk Pengembangan Web Frontend
 - D3 js Untuk Visualisasi Data Interaktif
 - Rust Untuk Pemula
+- Rust Untuk RESTful API
 - PostGIS dan Geoserver Untuk Pembangunan Map Service Skala Besar
 - Konsep dan Aplikasi Deep Learning
 - Build System di C++
 - Selenium Untuk Web Scraping
 - Kecerdasan Buatan - Konsep dan Aplikasi
+- Dasar Informatika
