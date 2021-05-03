@@ -40,6 +40,7 @@ OTOMASI, OTOMASI, OTOMASI !!!
    - wkhtmltopdf untuk cetak pdf
    - NATS untuk messaging
    - Signserver untuk digital signature pdf
+   - IDE intellij Rust + Snippet
 8. Jadikan BOILERPLATE
 
 ## Kapan Eksplorasi Tools ?
