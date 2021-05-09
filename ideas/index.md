@@ -72,3 +72,4 @@ layout : default
 - Selenium Untuk Web Scraping
 - Kecerdasan Buatan - Konsep dan Aplikasi
 - Dasar Informatika
+- WebGIS dengan PostGIS, Geoserver & OpenLayers
