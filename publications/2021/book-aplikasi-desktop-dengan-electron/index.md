@@ -4,7 +4,6 @@ __Untuk Kelas 5 SD__
 ## Outline
 - Sekilas Tentang Electron
 - Prinsip Kerja Electron
-  - Main Process, Renderer Process, Preload
 
-### Prinsip Kerja Electron
-- Akses ke API nodejs dianjurkan menggunakan mekanisme komunikasi ipcRenderer di renderer process ke ipcMain di main process
+### Prioritas Untuk Diketahui
+- **Preload, Preload, Preload**. Preload bisa mengakses API Nodejs secara langsung. Dimanfaatkan untuk menjembatani main process dengan renderer process menggunakan ipcMain dan ipcRenderer
