@@ -6,4 +6,4 @@ __Untuk Kelas 5 SD__
 - Prinsip Kerja Electron
 
 ### Prioritas Untuk Diketahui
-- **Preload, Preload, Preload**. Preload bisa mengakses API Nodejs secara langsung. Dimanfaatkan untuk menjembatani main process dengan renderer process menggunakan ipcMain dan ipcRenderer
+- **Preload, Preload, Preload**. Preload bisa mengakses API Nodejs secara langsung. Dimanfaatkan untuk menjembatani main process dengan renderer process menggunakan ipcMain dan ipcRenderer. + contextBridge
