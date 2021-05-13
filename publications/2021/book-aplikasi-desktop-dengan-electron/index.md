@@ -6,3 +6,5 @@ __Untuk Kelas 5 SD__
 - Prinsip Kerja Electron
   - Main Process, Renderer Process, Preload
 
+### Prinsip Kerja Electron
+- Akses ke API nodejs dianjurkan menggunakan mekanisme komunikasi ipcRenderer di renderer process ke ipcMain di main process
