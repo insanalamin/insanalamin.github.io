@@ -1,1 +1,8 @@
+# Membuat Aplikasi Desktop Dengan Electron
+__Untuk Kelas 5 SD__
+
+## Outline
+- Sekilas Tentang Electron
+- Prinsip Kerja Electron
+  - Main Process, Renderer Process, Preload
 
