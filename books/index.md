@@ -21,4 +21,5 @@ title: Bacaan
 #### Optimization
 - Algorithms for Optimization
 - Genetic Algorithms in Search, Optimization, and Machine Learning
-- 
+- Computational Intelligence An Introduction, Second Edition
+- https://bookauthority.org/books/best-optimization-books
