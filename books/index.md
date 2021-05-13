@@ -16,3 +16,7 @@ title: Bacaan
 ### Internet
 - Network Programming with Go: Essential Skills for Using and Securing Networks
 - High Performance Browser Networking: What every web developer should know about networking and web performance
+
+### Kecerdasan Buatan
+#### Optimization
+- Algorithms for Optimization
