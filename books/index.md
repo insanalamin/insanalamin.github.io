@@ -11,3 +11,8 @@ title: Bacaan
 
 ## Fiksi Anak
 - [Tony Wolf - Woodland Folk](https://www.facebook.com/Tony-Wolf-Woodland-Folk-198720373509252/)
+
+## Perkomputeran
+### Internet
+- Network Programming with Go: Essential Skills for Using and Securing Networks
+- High Performance Browser Networking: What every web developer should know about networking and web performance
