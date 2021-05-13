@@ -20,3 +20,5 @@ title: Bacaan
 ### Kecerdasan Buatan
 #### Optimization
 - Algorithms for Optimization
+- Genetic Algorithms in Search, Optimization, and Machine Learning
+- 
