@@ -34,6 +34,8 @@ OTOMASI, OTOMASI, OTOMASI !!!
    - Visx (basis d3) untuk pembuatan visualisasi custom + peta (highly customizable)
    - OpenLayers untuk peta multi layer
 7. BANGUN BACKEND
+   - desain API endpoint yang dibutuhkan
+   - arsitektur repository-service
    - cargo new
    - Warp untuk web API
    - Serde untuk penanganan JSON
