@@ -7,6 +7,7 @@ title: Playlist Musik
 ### Campur
 - [Java Jive - Buah Hati](https://www.youtube.com/watch?v=X9tAjfAj02M)
 - [Pure Saturday - Nyala](https://www.youtube.com/watch?v=fJulZM6cW-E)
+- [Pure Saturday - Elora](https://www.youtube.com/watch?v=pn8UZyOv-7I)
 - [The Milo - For All The Dreams That Wings Could Fly](https://www.youtube.com/watch?v=KVzMhjlZkBs)
 - [White Shoes & the Couples Company - Sunday Memory Lane](https://www.youtube.com/watch?v=v97vDfWlLDc)
 
