@@ -73,6 +73,9 @@ title: Playlist Musik
 
 ### Angels And Airwaves
 - [Love Like Rockets](https://www.youtube.com/watch?v=jAFNTDujCSc)
+- [Starts The Machine](https://www.youtube.com/watch?v=ysoMOefPyRs)
+- [Rite of Spring](https://www.youtube.com/watch?v=Ux1VBD20ZcI)
+- [A Little's Enough](https://www.youtube.com/watch?v=tnjJft91BLA)
 
 ### Cafe Del Mar
 
