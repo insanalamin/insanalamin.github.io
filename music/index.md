@@ -72,6 +72,7 @@ title: Playlist Musik
 - [Linkin Park - Leave Out All The Rest](https://www.youtube.com/watch?v=yZIummTz9mM)
 
 ### Angels And Airwaves
+- [Love Like Rockets](https://www.youtube.com/watch?v=jAFNTDujCSc)
 
 ### Cafe Del Mar
 
