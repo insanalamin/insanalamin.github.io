@@ -42,6 +42,7 @@ layout : default
 - Gamifikasi LMS ala Kahoot + Datacamp + Civilization
 - Tiny Scheduler
 - SVG assets explorer
+- Media berita
 
 ## Antrian Paper Untuk Ditulis
 - Pemrosesan filtering bansos covid 19 pake teknologi big data
