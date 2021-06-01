@@ -40,6 +40,8 @@ layout : default
 - Al-Quran terjemahan Indonesia per kalimat di host di github pake javascript, seo pake SSG, inspirasi dari http://qurandev.github.io/corpus/#!/quran-corpus/1
 - Riset NLP status galau ke ayat Quran, bisa interface chatbot, jadiin penelitian juga
 - Gamifikasi LMS ala Kahoot + Datacamp + Civilization
+- Tiny Scheduler
+- SVG assets explorer
 
 ## Antrian Paper Untuk Ditulis
 - Pemrosesan filtering bansos covid 19 pake teknologi big data
