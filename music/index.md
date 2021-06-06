@@ -127,6 +127,7 @@ title: Playlist Musik
 - [George Acosta Feat. Kate Walsh - Nite Time](https://www.youtube.com/watch?v=JNzteUrlfq8)
 - [Tritonal feat. Phoebe Ryan](https://www.youtube.com/watch?v=eSSO1LfMO8w)
 - [Daughter - Youth (Love Thy Brother Remix)](https://www.youtube.com/watch?v=iG_Z2dqO68A)
+- [Gemini - Fire Inside (feat Greta Svabo Bech) (Mr FijiWiji Remix)](https://www.youtube.com/watch?v=2UM2Bd_XzIQ)
 - ===
 - [Money G - Du bist nicht du (Dream Dance Vol 60)](https://www.youtube.com/watch?v=Tvej1SdOHB0)
 - [Cascada - San Francisco (Frisco Extendet Mix)](https://www.youtube.com/watch?v=v7V-CzK7f0Y)
