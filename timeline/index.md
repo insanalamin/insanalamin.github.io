@@ -31,9 +31,13 @@ layout: default
 - Jalan Mangga adalah kawasan asri dan tenteram di tengah kota. Sebuah kostan di lantai dua. Masuknya melintasi rumah sebuah keluarga besar. Tidak banyak yang dilakukan di dalamnya selain tidur. Namun, jalan di depannya menyimpan rasa tersendiri tentang pagi cerah, tentang komunitas yang tenang, tentang kenyataan bahwa lokasinya ada di tengah kota.
 
 ## 2013
+- Sebuah tiket, perjalanan, dan konser indoor sekitaran Gatot Subroto
 
 ## 2012
 - Sebuah gym di kawasan Dago. Lengkap mulai renang, jacuzzi, fitness, yoga, sauna, dsb. Menjadi rutinitas mingguan melepas penat, melatih raga.
+- Juli di rooftop, kejutan dari barudak dimulai dari c Teguh yang minjem kunci kos
+- September di utara Jakarta, dimulai dari Sabuga di pagi hari, yang akhirnya berangkat jam 2 siang, sampai muara angke jam 7 malam, lalu menyeberang dan sampai disana pukul 1 malam, dimana laut Jawa begitu tenang, dan masing-masing peserta tour terlihat menikmati suasana yang telat 8 jam dari jadwal.
+- Batununggal seperti begitu luas, begitu menenangkan ketika siang, dan kawan-kawan yang sibuk kesana kemari urus tagihan ataupun pembiayaan. Seperti dinginnya susu murni di sekitar alun-alun, atau sekedar nangkring di beberapa kios dan tempat makan di sana
 
 ## 2011
 - NAV adalah linkin park, peterpan, green day, simple plan, blink 182, good charlotte
@@ -58,8 +62,14 @@ layout: default
 - Perkenalan ke himpunan
 - Udara pagi [ITB](https://www.itb.ac.id/),, jalanan yang dipenuhi bercak-bercak putih burung koak
 - Pemilihan ketua angkatan SMA di ITB
+- Kalkulus dan GKU barat. Pakaian olahraga yang sepertinya oke. 
+- Donat, suling, dan impian yang belum nampak
 
 ## 2005
+- Sekre adalah pagi, siang, sore, hingga menjelang malam
+- Perpustakaan adalah tempat menyendiri di siang hari di kala kosong pelajaran
+- Kelas selepas pulang sekolah adalah wahana konser, dan Yu Gi Oh dimainkan lintas eskul di tempat-tempat dimana duel kondusif dilakukan, seperti di belakang aula atau di kelas
+- Gitar adalah sarana berkarya, bahkan membuat lirik dan musik
 
 ## 2004
 - Malam momen pengumuman juara Light of Electrical Dreams 2004. Makanan-makanan, panitia-panitia, Aula Timur, naik ke panggung menerima piala dan uang, momen kegembiraan.
