@@ -101,6 +101,7 @@ layout: default
 ## 1995
 
 ## 1994
+- SDN Ranca Bolang 02, sekolah dan sawah membentang.
 
 ## 1993
 - MacGyver di RCTI. Begitupun Saint Seiya
