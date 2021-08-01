@@ -83,10 +83,16 @@ layout: default
 - [Sao Jose Dos Campos](https://www.sjc.sp.gov.br/)
 
 ## 2001
+- MBS, GO, dan berburu datang pagi. Rutinitas bangun tidur jam 4.20 untuk berangkat angkot abu dari Ciwastra jam 4.40 pagi agar sampai di jalan Sumatra jam setengah 6 pagi sehingga jadi yang pertama menjejak kaki ke sekolah
+- Counter Strike Octagon seperti rutinitas harian, pulang sekolah hingga sore jelang malam
+- Perpisahan kelas 1F di sekitar lembang, samar-samar masih keinget nuansanya Vila kayu yang cukup besar. Ada yang belajar gitar, ada juga yang memiliki rencana-rencana.
 
 ## 2000
 - Diablo adalah sebuah permainan di PC. Sebuah rumah di jalan Kopo pusat aneka pengetahuan terkait game, dan satu magnet yang berputar.
 - Pertama kali masuk SMP, berkenalan dengan teman-teman baru dari berbagai SD. Rohani. Taman Kartini, sekolah ibu, warisan bangunan masa lalu, beragam kisah, dan kelas pojok yang dari luar hanya pintu. Teman-teman yang ketika ini mewarnai beragam posisi. Ternyata sopir tidak hanya ada di film. Tidak hanya dengan teman seangkatan, gaul juga dengan kakak-kakak kelas. Ketika itu, kakak kelas ibarat posisi tinggi yang memiliki kewenangan lebih banyak.
+- Beberapa kali main ke rumah teman untuk kerja kelompok, yang ternyata pinggir rumahnya jadi tempat kerja di kemudian hari. Main basket, coba tembak bola ke ring diiringi beberapa terikan. 
+- Baru lihat profesi yang biasanya cuma lihat di film, dan cukup banyak juga yang menggunakan jasanya.
+- Main ke rumah-rumah teman di sekitaran geger kalong
 
 ## 1999
 
@@ -97,6 +103,7 @@ layout: default
 - Reuni angkatan kampus bapak yang ke 20. Sabuga masih tahap pembangunan. Tangga turun masih teringat jelas. Lapangan tenis. [Ingatan 2020]
 
 ## 1996
+- Petualangan mengintari komplek bersama Uung Resa Irfan dan kadang Anwar ikut. Kadang jalan kaki, kadang naik sepeda boncengan 3. Main dingdong, minta es bul dari Uung atau es sirop dari Anwar.
 
 ## 1995
 
