@@ -62,6 +62,7 @@ title: Playlist Musik
 - [Journey - Don't Stop Believing]
 - [Tracy Chapman - Fast Car]
 - [Foo Fighters - Walk](https://www.youtube.com/watch?v=4PkcfQtibmU)
+- [Coconut Records - West Coast](https://www.youtube.com/watch?v=qlYGEaeoBWw)
 
 ### Anathema
 - [Anathema - Dreaming Light](https://www.youtube.com/watch?v=0IED7Vu3AsY)
