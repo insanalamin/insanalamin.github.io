@@ -19,9 +19,17 @@ Muhammad **[In](https://id.linkedin.com/in/insan-al-amin)san** Al-Amin
 ## Wall
 <details>
   <summary>20 Maret 2022</summary>
-  [Begin With the End in Mind](https://www.franklincovey.com/habit-2/), tujuan akhir itu ada untuk dikerjakan hari ini. Jadi pribadi yang disiplin dan tanggung jawab, sigap dan responsif. Hal-hal yang jadi tujuan akhir dan amat prioritas untuk dilakukan seperti jadi anak, suami, dan ayah yang baik, serta jadi pribadi amanah yang solat khuyu, tepat waktu, jaga pandangan. 
   
-  Lalu habit untuk mengantarkan ke tujuan bikin channel Youtube no. 1 bidang computer science untuk orang Indonesia, serta menyetarakan kemampuan akademis dengan para profesor dan pekerja profesor MIT, CMU, Stanford, dan NUS.
+  ```
+  https://www.franklincovey.com/habit-2/, tujuan akhir itu ada untuk dikerjakan hari ini. 
+  Jadi pribadi yang disiplin dan tanggung jawab, sigap dan responsif.
+  Hal-hal yang jadi tujuan akhir dan amat prioritas untuk dilakukan seperti jadi anak, suami, dan ayah yang baik,
+  serta jadi pribadi amanah yang solat khuyu, tepat waktu, jaga pandangan. 
+  
+  Lalu habit untuk mengantarkan ke tujuan bikin channel Youtube no. 1 bidang computer science untuk orang Indonesia,
+  serta menyetarakan kemampuan research, development, & publication dengan para profesor dan asisten profesor MIT, CMU, Stanford, dan NUS.
+  ```
+  
 </details>
 
 > 15 November 2021 - Lagi mikir arah gerak kedepan. Yang pasti berlanjut adalah proyek mendisiplinkan diri untuk tanggung jawab, sigap, dan responsif terhadap saat ini. Untuk arah riset utama, adalah teknologi digital yang dapat membantu menyelamatkan akhirat dunia khususnya untuk diri saya pribadi (misal int. digital assistant), serta teknologi digital amal jariyah terutama di bidang pendidikan. tambahannya mungkin di teknologi digital untuk pemantauan keluarga jarak jauh. spesialisasi proyek di GIS interaktif, teknologi survei geolokasi, dan visualisasi data kompleks.
