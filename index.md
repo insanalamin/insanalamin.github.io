@@ -46,8 +46,8 @@ Muhammad **[In](https://id.linkedin.com/in/insan-al-amin)san** Al-Amin
 - [Blog](/blog)
 - [Bacaan](/books)
 - [VMCVS](/vmcvs)
-- [Timeline](/timeline)
-- [Puisi](/poetry)
+<!-- - [Timeline](/timeline) -->
+<!-- - [Puisi](/poetry) -->
 - [Musik](/music)
 - [Kampus Zero Dropout](https://mecha.id)
   - [Mata kuliah](https://mechaid.github.io/course-materials/)
