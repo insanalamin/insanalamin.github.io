@@ -3,6 +3,11 @@ title: Riset - Muhammad Insan Al-Amin
 layout: default
 ---
 
+# Filosofi Riset
+- [Research Philosophy & Methodology](http://www.is.cityu.edu.hk/staff/isrobert/phd/ch3.pdf)
+- [Critical Thinking & Academic Research](https://library.louisville.edu/ekstrom/criticalthinking/intro)
+- [Choosing & Using Sources: A Guide to Academic Research](https://ohiostate.pressbooks.pub/choosingsources/)
+
 # Membuat Proposal Riset
 
 - [UCL - Develop a Research Proposal](https://www.ucl.ac.uk/ioe-writing-centre/plan-your-assignment/write-a-research-proposal)
