@@ -18,6 +18,10 @@ layout: default
 - [The University of Sydney - How to write a research proposal](https://www.sydney.edu.au/study/applying/how-to-apply/postgraduate-research/how-to-write-a-research-proposal-for-a-strong-phd-application.html)
 - [University of Sussex - How to write a research proposal](https://www.sussex.ac.uk/study/phd/apply/tips-research-degrees/research-proposal)
 
+## Contoh Proposal Riset
+- [Writing a research proposal](https://www.sheffield.ac.uk/socstudies/phd/research-proposal)
+- [Examples of research proposals](https://www.yorksj.ac.uk/study/postgraduate/research/apply/examples-of-research-proposals/)
+
 ## Apa itu Metodologi ?
 > The methodology section of the proposal should outline how the research will be conducted. This should generally include a description and justification of: sample / participants, methods, data collection and analysis, and ethical considerations. - UCL
 
