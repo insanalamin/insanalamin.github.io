@@ -8,6 +8,7 @@ layout: default
 - [Critical Thinking & Academic Research](https://library.louisville.edu/ekstrom/criticalthinking/intro)
 - [Choosing & Using Sources: A Guide to Academic Research](https://ohiostate.pressbooks.pub/choosingsources/)
 - [Choosing Your Research Methodology](https://www.cdu.edu.au/research-and-innovation/current-students/useful-materials/choosing-your-research-methodology)
+- [Research Methodology - Kothari](https://ccsuniversity.ac.in/bridge-library/pdf/Research-Methodology-CR-Kothari.pdf)
 
 # Membuat Proposal Riset
 - [UCL - Develop a Research Proposal](https://www.ucl.ac.uk/ioe-writing-centre/plan-your-assignment/write-a-research-proposal)
