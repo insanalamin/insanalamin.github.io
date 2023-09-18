@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=K2D:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+h1, h2, h3 {
+  font-family: 'K2D', sans-serif;
+  font-weight: 700;
+} 
+h3 {
+  font-size: 18px;
+  font-weight: 700;
+}
+a {
+  text-decoration: none;
+  color: #253c5b;
+}
+a:hover {
+  text-decoration: underline;
+  color: #253c5b;
+}
+ul, li {
+  margin-left: 8px;
+}
