@@ -37,3 +37,6 @@ ul, li {
   position: fixed;
   top: 0px;
 }
+.gap-1 {
+  gap: 8px;
+}
