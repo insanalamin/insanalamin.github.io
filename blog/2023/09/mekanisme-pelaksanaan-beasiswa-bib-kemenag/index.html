@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Alur Pelaksanaan Beasiswa BIB LN Kemenag</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/default.min.css">
+    <link rel="stylesheet" href="/styles/style.css"> 
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    </script>
+
+    <script src="/scripts/default.js"></script>
+    <script>
+      hljs.highlightAll();
+    </script>
+  </head>
+  <body>
+    <div class="top-menu">
+      <a href="/">Home</a>
+      <a href="/courses">Courses</a>
+      <a href="/rnd">RnD</a>
+      <a href="/blog">Blog</a>
+    </div> 
+  
+    <div class="container mt-2">
+      <h1>
+        <a href="/blog/2023/09/mekanisme-pelaksanaan-beasiswa-bib-kemenag/">
+          (Unofficial) Alur Pelaksanaan Beasiswa BIB LN Kemenag
+        </a>
+      </h1>
+      <p>Disclaimer: halaman ini dibuat sebagai catatan tidak resmi untuk bantu saya pribadi dan teman-teman dalam memahami setiap proses pelaksanaan beasiswa BIB Kemenag dari awal lolos sebagai penerima beasiswa, diterima, proses keberangkatan, kuliah, lulus, dapat gelar, hingga pulang kembali ke Indonesia.
+      </p>
+      <p>Semoga kita semua senantiasa dimudahkan, dilancarkan dan selalu berada dibawah lindungan Allah SWT, aamiin.</p>
+    </div>
+    
+    <div class="container mt-4">
+      <div class="row mt-2">
+        <h2>Alur Setelah Menjadi Calon Penerima Beasiswa</h2>
+        <pre class="mermaid">
+graph TD 
+  A(🐬 Lolos calon penerima beasiswa) --> B[🦉 Mulai proses dapat LoA]
+  B-.->B1[🐬 IELTS sesuai syarat minimal kampus]
+  B-.->B3[🐬 LoS]
+  B-.->B4[🦉 Curriculum vitae]
+  B-.->B5[🦉 Proposal riset]
+  B-.->B7[🦉 Motivation letter]
+  B-.->B6[🦉 Transkrip dan ijazah]
+  subgraph BB0 [Proses dapat LoA - mekanisme bisa beda tiap kampus]
+    B23[🦉 Mengisi form ketertarikan]-.->B21[🦉 Wawancara dengan calon Supervisor]
+    B2[🦉 Menghubungi calon Supervisor langsung]-.->B21[🦉 Wawancara dengan calon Supervisor]
+    B21-.->B22[🐬 Supervisor bersedia membimbing]
+    B22-.->B24
+    B23-.->B24
+    B24[🦉 Dapat email boleh isi pemberkasan]-.->BB[🦉 Isi form pemberkasan kampus]
+  end
+  B1-.->BB0
+  B22-.->BB0
+  B3-.->BB0
+  B4-.->BB0
+  B5-.->BB0
+  B6-.->BB0
+  BB0-->C[🐬 Dapat LoA]
+  C-.->C1[🦉 Mengajukan LoG]
+  C1-.->C2[🐬 Dapat LoG]
+  C2-.->C3[🦉 Mengajukan SK Awardee]
+  C3-.->C4[🐬 Dapat SK Awardee]
+  C4-.->C5[🦉 Pengajuan Visa]
+  C5-.->C6[🐬 Dapat Visa]
+
+  click A href "https://beasiswa.kemenag.go.id/" _blank
+
+        </pre>
+      </pre>
+    </div>
+
+    <div class="container mt-2">
+      <div x-init="" x-html="mdToHTML($el.innerHTML)" class="row mt-2">
+## Catatan dan Dokumen Terkait
+- Lapor diri setibanya di luar negeri via [aplikasi ini](https://peduliwni.kemlu.go.id/beranda.html)
+      </div>
+    </div>
+
+    <div class="container mt-2">
+    </div>
+
+    <div class="container mt-2">
+      <h2>Video Terkait</h2>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/NQA57dX-skM?si=h4HIHPa7QH7IKaO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+  </body>
+</html>

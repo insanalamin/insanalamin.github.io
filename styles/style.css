@@ -31,7 +31,12 @@ a:hover {
   color: #253c5b;
 }
 ul, li {
-  margin-left: 8px;
+  margin-left: 16px;
+  line-height: 32px;
+}
+li img {
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 .top-menu {
   z-index: 9;
