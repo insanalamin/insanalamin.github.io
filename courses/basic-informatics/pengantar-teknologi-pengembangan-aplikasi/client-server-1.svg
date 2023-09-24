@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="640"
+   height="640"
+   viewBox="0 0 169.33333 169.33333"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs2" /><g
+     id="layer1"><image
+       width="77.778282"
+       height="58.33371"
+       preserveAspectRatio="none"
+       xlink:href="../../../assets/common-images/smartphone-1.png"
+       id="image236"
+       x="-3.0784221"
+       y="104.23049"
+       style="stroke-width:2.17713" /><image
+       width="67.73333"
+       height="67.73333"
+       preserveAspectRatio="none"
+       xlink:href="../../../assets/common-images/server-cloud-1.png"
+       id="image386"
+       x="91.297615"
+       y="5.3746357" /><text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.64444px;line-height:5.64444px;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One Bold';white-space:pre;inline-size:70.5816;fill:#ff7f2a;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="6.4487472"
+       y="10.411963"
+       id="text1574"
+       transform="translate(0,1.0583333)"><tspan
+         x="6.4487472"
+         y="10.411963"
+         id="tspan2434"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ac9d93"
+           id="tspan2432">Di server Instagram ada:
+</tspan></tspan><tspan
+         x="6.4487472"
+         y="16.070705"
+         id="tspan2438"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ac9d93"
+           id="tspan2436">
+</tspan></tspan><tspan
+         x="6.4487472"
+         y="21.729446"
+         id="tspan2446"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ac9d93"
+           id="tspan2440">Database (DB)</tspan><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="tspan2442"> yang berisi:</tspan><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ac9d93"
+           id="tspan2444">
+</tspan></tspan><tspan
+         x="6.4487472"
+         y="27.388187"
+         id="tspan2450"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2448">- Data Pengguna Instagram </tspan></tspan><tspan
+         x="6.4487472"
+         y="33.046928"
+         id="tspan2454"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2452">sedunia
+</tspan></tspan><tspan
+         x="6.4487472"
+         y="38.705669"
+         id="tspan2458"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2456">- Data Postingan Instagram </tspan></tspan><tspan
+         x="6.4487472"
+         y="44.36441"
+         id="tspan2462"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2460">sedunia
+</tspan></tspan><tspan
+         x="6.4487472"
+         y="50.023151"
+         id="tspan2466"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ac9d93"
+           id="tspan2464">
+</tspan></tspan><tspan
+         x="6.4487472"
+         y="55.681892"
+         id="tspan2474"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ac9d93"
+           id="tspan2468">Aplikasi web server</tspan><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="tspan2470">nya </tspan><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ac9d93"
+           id="tspan2472">
+</tspan></tspan><tspan
+         x="6.4487472"
+         y="61.340633"
+         id="tspan2478"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2476">Instagram yang bisa:
+</tspan></tspan><tspan
+         x="6.4487472"
+         y="66.999374"
+         id="tspan2482"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2480">- Simpan postingan baru
+</tspan></tspan><tspan
+         x="6.4487472"
+         y="72.658115"
+         id="tspan2486"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2484">- Beri data semua </tspan></tspan><tspan
+         x="6.4487472"
+         y="78.316852"
+         id="tspan2490"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2488">postingan
+</tspan></tspan><tspan
+         x="6.4487472"
+         y="83.975589"
+         id="tspan2494"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2492">- Beri data komentar
+</tspan></tspan><tspan
+         x="6.4487472"
+         y="89.634326"
+         id="tspan2498"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2496">- Simpan like
+</tspan></tspan><tspan
+         x="6.4487472"
+         y="95.293063"
+         id="tspan2502"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2500">- dan segudang fungsi </tspan></tspan><tspan
+         x="6.4487472"
+         y="100.9518"
+         id="tspan2506"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2504">lainnya
+</tspan></tspan></text><text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.64444px;line-height:5.64444px;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One Bold';white-space:pre;inline-size:99.684;fill:#ff7f2a;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="63.741055"
+       y="99.887444"
+       id="text1940"
+       transform="translate(2.9339114,0.86611348)"><tspan
+         x="63.741055"
+         y="99.887444"
+         id="tspan2510"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ac9d93"
+           id="tspan2508">Di hp Android / iPhone mu ada:
+</tspan></tspan><tspan
+         x="63.741055"
+         y="105.54618"
+         id="tspan2514"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ac9d93"
+           id="tspan2512">
+</tspan></tspan><tspan
+         x="63.741055"
+         y="111.20492"
+         id="tspan2520"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
+           id="tspan2516">Aplikasi clientnya Instagram</tspan><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2518"> yang </tspan></tspan><tspan
+         x="63.741055"
+         y="116.86366"
+         id="tspan2524"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2522">bisa:
+</tspan></tspan><tspan
+         x="63.741055"
+         y="122.5224"
+         id="tspan2528"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2526">- Minta ke server simpan postingan </tspan></tspan><tspan
+         x="63.741055"
+         y="128.18113"
+         id="tspan2532"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2530">baru
+</tspan></tspan><tspan
+         x="63.741055"
+         y="133.83987"
+         id="tspan2536"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2534">- Minta dan menampilkan data semua </tspan></tspan><tspan
+         x="63.741055"
+         y="139.49861"
+         id="tspan2540"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2538">postingan dari server
+</tspan></tspan><tspan
+         x="63.741055"
+         y="145.15734"
+         id="tspan2544"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2542">- Minta dan menampilkan data </tspan></tspan><tspan
+         x="63.741055"
+         y="150.81608"
+         id="tspan2548"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2546">komentar dari server
+</tspan></tspan><tspan
+         x="63.741055"
+         y="156.47482"
+         id="tspan2552"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ac9d93"
+           id="tspan2550">- Minta ke server like postingan
+</tspan></tspan><tspan
+         x="63.741055"
+         y="162.13356"
+         id="tspan2558"><tspan
+           style="font-weight:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="tspan2554">- dan segudang user interface lainnnya</tspan><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ac9d93"
+           id="tspan2556">
+</tspan></tspan></text><path
+       style="fill:#ac9d93;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path2021"
+       d="m 55.021284,106.75778 c 1.351909,-1.04488 3.288246,-2.51802 4.456895,-3.5663 3.651332,-3.275226 7.83427,-7.517486 11.192277,-10.943915 4.923057,-5.023365 9.79233,-10.099211 14.70796,-15.129845 8.924824,-8.920136 4.628224,-4.664022 12.880718,-12.77751 0,0 -1.138457,-0.697812 -1.138457,-0.697812 v 0 c -8.106595,8.210854 -3.869304,3.916773 -12.71121,12.882893 -1.727915,1.758124 -12.960951,13.200385 -14.830266,15.052437 -4.215612,4.176686 -7.120324,7.003433 -11.546869,10.704292 -1.625489,1.35901 -2.977481,2.26942 -4.645745,3.43723 0,0 1.634697,1.03853 1.634697,1.03853 z" /></g></svg>
