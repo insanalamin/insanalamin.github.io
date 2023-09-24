@@ -2,7 +2,20 @@
 
 :root {
   --r-background-color: #253c5b;
-  --r-heading-color: #cfcecaff;
+  --r-heading-color: #e1cc96;
+  --r-main-color: #CFCECA;
+  --r-heading-font: 'K2D', sans-serif;
+  --r-main-font: 'Ubuntu', sans-serif;
+  --r-heading-text-transform: none;
+  --r-link-color: #8494abdd;
+  --r-link-color-dark: #8494abbb;
+  --r-link-color-hover: #8494abff;
+  --r-selection-background-color: #AC8181;
+}
+
+@media screen and (max-width: 479px) {
+    :root {
+    }
 }
 
 .reveal-viewport {
