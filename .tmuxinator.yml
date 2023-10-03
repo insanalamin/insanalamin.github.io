@@ -1,0 +1,11 @@
+# ./.tmuxinator.yml
+
+name: insanblog
+root: . 
+
+windows:
+  - editor:
+      layout: main-horizontal
+      panes:
+        - sleep 0.1 && nvim index.html 
+        - sleep 0.1 && live-server 
