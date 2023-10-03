@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Membuat Aplikasi Mirip Twitter Dengan React Native, Express dan PostgreSQL</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/default.min.css">
+    <link rel="stylesheet" href="/styles/style.css"> 
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    </script>
+
+    <script src="/scripts/default.js"></script>
+    <script>
+      hljs.highlightAll();
+    </script>
+  </head>
+  <body>
+    <div class="top-menu">
+      <a href="/">Home</a>
+      <a href="/courses">Courses</a>
+      <a href="/rnd">RnD</a>
+      <a href="/blog">Blog</a>
+    </div> 
+  
+    <div class="container mt-2">
+      <h1>
+        <a href="/courses/basic-informatics/contoh-pembangunan-aplikasi-client-server/">
+          Membuat Aplikasi Mirip Twitter Dengan React Native, Express dan PostgreSQL
+        </a>
+      </h1>
+      <a href="/">Muhammad Insan Al-Amin</a> - Oct 3, 2023
+    </div>
+
+    <div class="container mt-4">
+      <div x-init="" x-html="mdToHTML($el.innerHTML)" class="row mt-2">
+## Intro 
+Melalui artikel ini kita akan melihat bagaimana sebuah teknologi informasi kekinian berbasis *client-server* dibuat. Kita akan membuat sebuah aplikasi sangat sederhana seperti Twitter dimana pengguna dapat mengirim, melihat, dan membalas cuitan, serta dapat saling mengikuti akun. Proses pembangunan teknkologi informasi secara umum mengikuti Software Development Life Cycle (SDLC) yang terdiri atas tahapan:
+
+<pre class="mermaid">
+graph TD 
+  A[🐬 Analisis] --> B[🦉 Design]
+  B --> C[🐜 Development]
+  C --> D[🐒 Testing]
+  D --> E[🐋 Deployment]
+  E --> F[🐝 Maintenance]
+
+  click A href "https://devoxsoftware.com/blog/software-development-lifecycle/" _blank
+</pre>
+
+## Analysis: *Branding* 
+Pada tahap ini kita mengeksplorasi *branding* dari sistem yang dibuat. *Branding* meliputi:
+- Merk: **tgjwb** 
+- Tagline: cuitan bebas dan bertanggung jawab
+- Campaign: Bagaimana membuat aplikasi yang membuat penggunanya senang berbagi imajinasi, fakta, maupun inspirasi secara bertanggung jawab 
+- Target user:
+  - Usia 7+ 
+  - Seorang yang senang berbagi inspirasi dan informasi baru
+  - Seorang yang senang mengeksplorasi inspirasi dan informasi baru
+  - Seorang yang ingin atau sudah memiliki sikap bertanggung jawab
+  - Seorang yang ingin media cuitan alternatif yang lebih sehat 
+- User experience theme:
+  - Mudah
+  - Sederhana
+  - Menyenangkan
+  - Warna: ala suasana pagi / light blue / light yellow
+  - Inspirasi desain:
+- <img src="https://cdn.dribbble.com/users/5963189/screenshots/15500536/media/25ce5cb228235135d5a5cabcecd1be08.png?resize=400x0" width="400" />
+<img src="https://cdn.dribbble.com/users/2058952/screenshots/11176860/media/f7709fcfbe5e3c1e549b825aa9b087e5.png?resize=400x300&vertical=center" width="400" />
+
+
+
+## Analysis: User Story
+Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk kita wujudkan sebagai fitur pada sistem atau aplikasi yang akan dibuat.
+User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memudahkan kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
+
+|Sebagai|Saya ingin bisa|Sehingga|Prioritas
+|---|---|---|---|
+|Pengguna|Mengirim cuitan|Bisa mengekspresikan pikiran saya|⭐⭐⭐⭐⭐|
+|Pengguna|Melihat cuitan yang saya buat|Bisa mengingatkan, mengevaluasi dan mengambil hikmah|⭐⭐⭐⭐⭐|
+|Pengguna|Mencari pengguna lain|Memudahkan mengakses cuitan pengguna tersebut|⭐⭐⭐⭐|
+|Pengguna|Melihat cuitan dari pengguna lain|Bisa mengambil hikmah dan inspirasi|⭐⭐⭐⭐|
+|Pengguna|Membalas cuitan diri sendiri ataupun pengguna lain|Bisa memberi respon|⭐⭐⭐⭐⭐|
+|Pengguna|Mengikuti pengguna lain|Memudahkan mencari pengguna tersebut|⭐⭐⭐|
+
+## Analysis: Struktur Data 
+
+<pre class="mermaid">
+erDiagram
+  PENGGUNA {
+    int id_pengguna
+    string username
+    string email
+    string password
+    string nama_lengkap
+  }
+  PENGGUNA ||--o{ CUITAN : membuat
+  CUITAN ||--o{ CUITAN : membalas 
+  CUITAN {
+    int id_cuitan
+    int id_cuitan_yang_dibalas
+    int id_pengguna 
+    string isi_cuitan 
+    datetime waktu_publikasi 
+  }
+  PENGGUNA ||--o{ PENGIKUT : memiliki
+  PENGGUNA ||--o{ PENGIKUT : mengikuti
+  PENGIKUT {
+    int id_pengguna
+    int id_pengguna_yang_mengikuti
+  }
+</pre>
+- Pada tahap ini kita mengeksplorasi dan menganalisis bentuk struktur data yang mampu memfasilitasi *user story* yang ada, maupun yang kemungkinan besar dibutuhkan di kemudian hari
+- Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan Atribut
+
+## Design: Arsitektur Berbasis Client-Server
+<pre class="mermaid">
+flowchart BT 
+  subgraph cloud
+    B[Web Server: JavaScript - Express.js] <--> C[Aplikasi Web Backend: JavaScript - Express.js] 
+    C <--> D[Database: PostgreSQL] 
+  end
+  A[Aplikasi Android & iPhone: JavaScript - React Native] <--> B 
+</pre>
+Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
+
+## Design: User Experience (UX) Design 
+
+<img src="./ux.svg" />
+
+- Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
+- Ada banyak tools yang bisa digunakan mulai dari yang open source seperti [**Inkscape** (yang saya gunakan)](https://inkscape.org/), Penpot, lalu yang gratis hingga berbayar seperti Figma.
+- Desain yang dibuat di atas adalah *low fidelity design* dimana kualitas desainnya paling sederhana tapi cepat untuk dibuat.
+
+      </div>
+    </div> 
+
+  </body>
+</html>
