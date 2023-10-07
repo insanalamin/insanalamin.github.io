@@ -30,6 +30,9 @@ a:hover {
   text-decoration: underline;
   color: #253c5b;
 }
+ul {
+  padding-left: 0px;
+}
 ul, li {
   margin-left: 16px;
   line-height: 32px;

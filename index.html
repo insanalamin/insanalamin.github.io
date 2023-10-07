@@ -4,11 +4,28 @@
     <title>Muhammad Insan Al-Amin</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/default.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="/styles/style.css"> 
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js" integrity="sha512-E8QSvWZ0eCLGk4km3hxSsNmGWbLtSCSUcewDQPQWZF6pEU8GlT8a5fF32wOl1i8ftdMhssTrF/OhyGWwonTcXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    </script>
+
+    <script src="/scripts/default.js"></script>
+    <script>
+      hljs.highlightAll();
+    </script>
+
   </head>
   <body x-data="{
     hideEmail: false,
@@ -179,6 +196,36 @@
         </div>
       </div>
     </div> 
+
+    <div class="container mt-5">
+      <div class="row">
+        <h2>Skill Set</h2>
+        
+        <div class="row mt-2">
+<pre class="mermaid">
+mindmap
+  root((Skill Set))
+    Software Development 
+      Microservices
+      ::icon(fa fa-book)
+      Frontend Development 
+      Cloud Services
+    Geographic Information System
+      Map Server
+        GeoServer
+    Data Engineering 
+      Pipeline Automation
+        Apache Airflow
+      Big Data Pocessing
+        Apache Spark
+    Machine Learning
+
+</pre>
+        </div>
+
+      </div>
+    </div> 
+
 
     <script>
       function encode(inputText) {
