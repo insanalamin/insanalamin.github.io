@@ -83,6 +83,9 @@ title: Playlist Musik
 
 ### Synthwave
 
+### Old And Gold
+- [The Tigers - Smile For Me]
+
 ### Electronic
 - [Beat Foundation - My Freedom](https://www.youtube.com/watch?v=bXnxQtW3UOU&list=PLRHcTY84xEDptrPksDJuKpQ08djGbcgJ9&index=1)
 - [Jose Amnesia vs Karen Overton - Your Loving Arms (Ja Sunrise Mix)](https://www.youtube.com/watch?v=WRfunNPW7aw&list=PLRHcTY84xEDptrPksDJuKpQ08djGbcgJ9&index=2)
