@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Membuat Game Penjual Kue Dengan Java Swing dan AWT</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/default.min.css">
+    <link rel="stylesheet" href="/styles/style.css"> 
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    </script>
+
+    <script src="/scripts/default.js"></script>
+    <script>
+      hljs.highlightAll();
+    </script>
+  </head>
+  <body>
+    <div class="top-menu">
+      <a href="/">Home</a>
+      <a href="/courses">Courses</a>
+      <a href="/blog">Blog</a>
+    </div> 
+  
+    <div class="container mt-4">
+      <a href="/courses/basic-programming">
+        &laquo; Dasar Pemrograman
+      </a>
+      <h1>
+        <a href="/courses/basic-programming/exercises/game-penjual-kue">
+          Membuat Game Penjual Kue Dengan Java Swing dan AWT
+        </a>
+      </h1>
+    </div>
+    <div class="container mt-4">
+      <div x-init="" x-html="mdToHTML($el.innerHTML)" class="row mt-2">
+Contoh game sangat-sangat sederhana versi 0.1.1 menggunakan Javax Swing dan AWT. Untuk menggerakkan karakter gunakan keyboard. Game over ketika energinya habis. Energi bisa ditambah dengan cara makan minum. Makan  minum butuh uang. Uang didapat dari hasil jualan kue. Kue yang dibuat bisa dimakan atau dijual. Ini belum beres, yang penting teman-teman bisa coba-coba dulu scriptnya.
+
+1. Buat file **PenjualKue.java**
+```java
+// Bayangkan class-class yang diimport dari package-package ini
+// adalah karakter-karakter The Avengers, Sinetron, Selebgram, Politikus, Anime, dsb.
+// yang masing-masing punya keunikan kekuatan
+import java.awt.*;
+import java.awt.event.*;  
+import java.awt.image.*;  
+import javax.swing.*;  
+import java.util.*;  
+import java.io.File;
+import java.io.IOException;  
+import javax.imageio.ImageIO;
+
+/**
+ * Class JPanel: mewadahi dan mengelola komponen-komponen UI 
+ * Bagian dari javax.swing
+ * https://www.geeksforgeeks.org/java-swing-jpanel-with-examples/
+ */
+public class GameJualanKue extends JPanel {
+
+  private PenjualKue penjualKue = new PenjualKue();
+
+  /**
+   * Class BufferedImage: menyimpan informasi gambar 
+   * 
+   */
+  private BufferedImage asetImageKarakter;
+
+  private JLabel penunjukWaktu, penunjukUang, penunjukEnergi;
+
+  public void mulaiHitungan() {
+    int detikBerjalan = 0;
+
+    while(detikBerjalan >= 0) {
+      System.out.println(detikBerjalan);
+      detikBerjalan++;
+
+      this.repaint();
+
+      this.penjualKue.energi --;
+      this.penunjukWaktu.setText(String.valueOf(detikBerjalan) + " detik");
+      this.penunjukEnergi.setText(String.valueOf(this.penjualKue.energi) + " energi");
+      try {
+        Thread.sleep(1000);
+      } catch (InterruptedException e) {
+      }
+    }
+  }
+
+  // Constructor dari Class GameSederhana
+  public GameJualanKue(JLabel penunjukWaktu, JLabel penunjukUang, JLabel penunjukEnergi) {
+
+    this.penunjukWaktu = penunjukWaktu;
+    this.penunjukUang = penunjukUang;
+    this.penunjukEnergi = penunjukEnergi;
+
+    /**
+     * Class Color: membuat warna
+     */
+    setBackground(Color.green);
+
+    try {
+      asetImageKarakter = ImageIO.read(new File("./karakter.png"));
+    } catch (IOException e) {
+      System.out.println("Gagal membuka file image");
+    }
+
+    GameJualanKue gameIni = this;
+
+    /**
+     * Class KeyboardFocusManager: mengelola aktifitas keyboard pada Window yang sedang aktif 
+     * Bagian dari java.awt
+     * https://docs.oracle.com/javase%2F8%2Fdocs%2Fapi%2F%2F/java/awt/KeyboardFocusManager.html
+     */
+    KeyboardFocusManager.getCurrentKeyboardFocusManager()
+      .addKeyEventDispatcher(new KeyEventDispatcher() {
+        @Override
+        public boolean dispatchKeyEvent(KeyEvent e) {
+          switch(e.getKeyCode()) {
+            case KeyEvent.VK_UP:
+              gameIni.penjualKue.majuY(-1);
+            break;
+            case KeyEvent.VK_DOWN:
+              gameIni.penjualKue.majuY(1);
+            break;
+            case KeyEvent.VK_LEFT:
+              gameIni.penjualKue.majuX(-1);
+            break;
+            case KeyEvent.VK_RIGHT:
+              gameIni.penjualKue.majuX(1);
+            break;
+          }
+          gameIni.repaint();
+          return false;
+        }
+
+      });
+  }
+
+  public static void main(String[] args) {
+    /**
+     * Class JFrame: merepresentasikan Framed Window, komponen terluar yang mewadahi komponen-komponen UI termasuk JPanel 
+     * Bagian dari javax.awt.Frame
+     * https://www.geeksforgeeks.org/jpanel-vs-jframe/
+     * https://www.educba.com/jpanel-vs-jframe/
+     */
+    JFrame f = new JFrame();
+    f.setLayout(new BorderLayout());
+
+    JPanel panelPenunjuk = new JPanel();
+    panelPenunjuk.setLayout(new FlowLayout());
+
+    JLabel penunjukUang = new JLabel();
+    penunjukUang.setText("Rp 30.000");
+    panelPenunjuk.add(penunjukUang);
+
+    JLabel penunjukWaktu = new JLabel();
+    penunjukWaktu.setText("00:00");
+    panelPenunjuk.add(penunjukWaktu);
+
+    JLabel penunjukEnergi = new JLabel();
+    penunjukEnergi.setText("100 Energi");
+    panelPenunjuk.add(penunjukEnergi);
+
+    f.add(panelPenunjuk, BorderLayout.NORTH);
+
+    GameJualanKue game = new GameJualanKue(penunjukWaktu, penunjukUang, penunjukEnergi);
+    game.setPreferredSize(new Dimension(400, 320));
+    f.add(game, BorderLayout.SOUTH);
+
+    f.setTitle("Game Jualan Kue");
+    f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    f.setLocationRelativeTo(null);
+    f.setSize(400, 400);
+    f.setVisible(true);
+
+    game.mulaiHitungan();
+  }
+
+  /**
+   * Class Graphics: menggambar atau melukis komponen grafik 
+   * Bagian dari javax.awt
+   * https://www.geeksforgeeks.org/what-is-java-awt-graphics/ 
+   */
+  public void paint(Graphics g) {
+    System.out.println("lukis lagi");
+    super.paint(g);
+    g.drawImage(this.asetImageKarakter, this.penjualKue.posisi[0], this.penjualKue.posisi[1], this);
+
+    // g.setColor(Color.white);
+    // Point point = new Point(100, 100);
+    // g.drawOval(point.x-20, point.y-20, 40, 40);
+
+  }
+
+} 
+
+class PenjualKue {
+  int[] posisi = new int[]{50, 50};
+  int energi = 100;
+  int pengaliLangkahMaju = 16;
+
+  void majuX(int xRelatif) {
+    System.out.println("majuX: " + xRelatif + " posisi X menjadi" + this.posisi[0]);
+    this.posisi[0] += (xRelatif * this.pengaliLangkahMaju);
+  }
+
+  void majuY(int yRelatif) {
+    System.out.println("majuY: " + yRelatif + " posisi Y menjadi" + this.posisi[1]);
+    this.posisi[1] += (yRelatif * this.pengaliLangkahMaju);
+  }
+}
+
+/**
+ * Referensi
+ * https://docs.oracle.com/javase/8/docs/api/java/awt/Graphics.html
+ * https://www.javatpoint.com/repaint-method-in-java
+ * https://www.geeksforgeeks.org/what-is-java-awt-graphics/
+ * https://stackoverflow.com/questions/5344823/how-can-i-listen-for-key-presses-within-java-swing-across-all-components
+ * https://stackoverflow.com/questions/299495/how-to-add-an-image-to-a-jpanel
+ * https://stackoverflow.com/questions/26452903/javax-websocket-client-simple-example
+ * https://stackoverflow.com/questions/12175174/paintcomponent-vs-paint-and-jpanel-vs-canvas-in-a-paintbrush-type-gui
+ * https://www.geeksforgeeks.org/arrays-in-java/
+ * https://www.logicbig.com/tutorials/java-swing/overlay-layout.html
+ * https://www.javatpoint.com/CardLayout
+ */
+```
+
+2. Download gambar berikut pada direktori yang sama 
+  - [Gambar karakter png](/courses/basic-programming/exercises/game-penjual-kue/karakter.png)
+  - [Gambar karakter svg untuk di edit pakai Inscape, gausah pake bajakan yoi](/courses/basic-programming/exercises/game-penjual-kue/karakter.svg)
+  ![Aset karakter penjual kue](./karakter.png)
+
+3. Jalankan program dengan cara:
+      </div>
+      <pre>javac PenjualKue.java && java PenjualKue</pre>
+    </div>
+
+  </body>
+</html>
