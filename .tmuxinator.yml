@@ -8,4 +8,4 @@ windows:
       layout: main-horizontal
       panes:
         - sleep 0.1 && nvim index.html 
-        - sleep 0.1 && live-server 
+        - sleep 0.1 && live-server --port=8307 --browser=firefox

@@ -35,6 +35,15 @@
       <div x-init="" x-html="mdToHTML($el.innerHTML)" class="row mt-4">
 ## What is it ? 
 DockerOperator is Apache Airflow operator for executing commands inside a docker container
+
+## How to use ?
+```py
+a = 4
+my_task = DockerOperator(
+  network="your_network_name",
+)
+```
+
 ## Resources 
 - [DockerOperator official documentation](https://airflow.apache.org/docs/apache-airflow-providers-docker/stable/_api/airflow/providers/docker/operators/docker/index.html)
       </div>
