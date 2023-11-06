@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Arsitektur dan Teknologi Pembangunan Ubiquitous Computing</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/default.min.css">
+    <link rel="stylesheet" href="/styles/style.css"> 
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    </script>
+
+    <script src="/scripts/default.js"></script>
+    <script>
+      hljs.highlightAll();
+    </script>
+  </head>
+  <body>
+    <div class="top-menu">
+      <a href="/">Home</a>
+      <a href="/courses">Courses</a>
+      <a href="/rnd">RnD</a>
+      <a href="/blog">Blog</a>
+    </div> 
+  
+    <div class="container mt-2">
+      <a href="/courses/ubicom">
+        &laquo; Ubiquitous Computing
+      </a>
+      <h1>
+        <a href="/courses/ubicom/contoh-format-project">
+          Arsitektur dan Teknologi Pembangunan Ubiquitous Computing
+        </a>
+      </h1>
+      <a href="/">Muhammad Insan Al-Amin</a> - Nov 6, 2023
+    </div>
+
+    <div class="container mt-4">
+      <div x-init="" x-html="mdToHTML($el.innerHTML)" class="row mt-2">
+## Contoh Arsitektur Sistem 
+<pre class="mermaid">
+flowchart TD 
+  subgraph T0[Things]
+    T1[Microcontroller: Arduino / ESP]
+    T2[Simple Sensors: Proximity / Temperature / Accelerometer / etc.]
+    T3[Actuators]
+    T4[Multimedia Sensors: Camera / Mic / etc.]
+    T2 --> T1
+    T1 --> T3
+  end
+
+  subgraph E1[Edge Computing: Raspberry Pi / Jetson]
+    E2[MQTT Broker: Mosquitto / emqx] 
+    E3[Event Responder: Node-RED]
+    E4[Intelligent System: Python]
+
+    E2 <--> E3
+    E3 <--> E4
+  end
+
+  subgraph C1[Cloud]
+    C2[Web service: Python]
+    C3[Scalable Database]
+    C4[MQTT Broker: Mosquitto / emqx]
+    C5[Event Responder: Node-RED / Python]
+    C6[Analytics Engine]
+    C7[Intelligent System: Python]
+    C2 <--> C3
+    C4 <--> C5
+    C2 --> C5
+    C5 <--> C3
+    C5 --Scheduling--> C6
+    C6 <--> C3
+    C5 <--> C7
+    C6 <--> C7
+  end
+
+  subgraph M1[Smart Gadget: Smartphone / Tab / Laptop]
+    M2[Dashboard & Visualization]
+    M3[UI]
+    M4[Sensors]
+    M5[Responders: Speaker / visual]
+  end
+
+  T1 <--MQTT--> E2
+  T4 --> E4
+  E3 <--> C4
+  C2 --> M2
+  M3 --HTTP--> C2
+  M4 --HTTP--> C2
+  M4 --MQTT--> C4
+  C4 --MQTT / Websocket--> M5
+
+</pre>
+
+## Tutorial
+### Teknologi Pengembangan
+- [Dokumentasi Arduino](https://docs.arduino.cc/)
+- [Tutorial Pemrograman Arduino dan ESP dengan Arduino IDE](https://docs.arduino.cc/learn/)
+- [Tutorial Pemrograman Raspberry Pi](https://www.raspberrypi.org/learn) 
+- [Tutorial IoT Visual Programming dengan Node-RED](https://nodered.org/docs/)
+- [Roadmap Backend](https://roadmap.sh/backend)
+- [Roadmap AI & Data Science](https://roadmap.sh/ai-data-scientist)
+- [Roadmap Cybersecurity](https://roadmap.sh/cyber-security)
+- Mobile Development
+  - [Android](https://roadmap.sh/android)
+  - [React Native](https://roadmap.sh/react-native)
+  - [Flutter](https://roadmap.sh/flutter)
+
+## Referensi
+### Arsitektur
+- [Azure IoT Central Architecture - Microsoft Azure](https://learn.microsoft.com/en-us/azure/iot-central/core/concepts-architecture)
+- [Generic Architecture of IoT Based Big Data Analytics End-to-end System - Sanjay Chaudhary](https://www.researchgate.net/figure/Generic-Architecture-of-IoT-based-Big-data-analytics-end-to-end-system_fig1_317062625)
+- [IoT Architecture - Nishank Singla](https://www.linkedin.com/pulse/iot-architecture-nishank-singla/)
+- [Wireless IoT Architecture - Kristoffer Rist Skøien](https://blog.nordicsemi.com/getconnected/iot-wireless-architecture)
+- [Internet of Things (IoT) Architecture for Actionable IoT Analytics - SnowFlake](http://www.snowflake.com/guides/iot-architecture-for-iot-analytics/)
+- [IoT Architecture - TutorialAndExample](https://www.tutorialandexample.com/iot-architecture)
+
+      </div>
+    </div> 
+
+  </body>
+</html>
