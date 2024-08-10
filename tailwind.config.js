@@ -10,7 +10,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'body': ['"Ubuntu"', 'sans-serif'],
+        // 'body': ['"Ubuntu"', 'sans-serif'],
+        'body': ['"Roboto Slab"', 'sans-serif'],
         'logo': ['"Antonio"', 'sans-serif'],
         'heading': ['"Dangrek"', 'sans-serif'],
         'hand': ['"Patrick Hand"', 'sans-serif'],
@@ -22,6 +23,7 @@ module.exports = {
       colors: {
         ground: {
           300: "#e0d5c5",
+          600: "#aa946e",
         },
         water: {
           100: "#c4d7e6",

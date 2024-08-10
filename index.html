@@ -5,7 +5,7 @@ title: Muhammad Insan Al-Amin - Intelligent Systems Engineer
 <div class="bg-[url('/assets/svg/elements/fence.svg')] bg-repeat-x bg-bottom bg-no-repeat flex flex-col bg-water-800 h-[calc(100dvh)] md:h-[calc(50dvh)] md:max-h-[400px] overflow-y-hidden">
   <div class="flex flex-col lg:container lg:mx-auto relative overflow-hidden pt-20 px-8 md:px-8h-[calc(100dvh)] md:pt-20 gap-8 h-full w-full">
     <div class="flex flex-col grow gap-6 justify-center">
-      <h1 class="intro-h1 font-heading break-normal text-slate-100 text-[6vh] leading-tight md:text-[5vh] gap-2 font-medium">
+      <h1 class="z-10 intro-h1 font-heading break-normal text-slate-100 text-[6vh] leading-tight md:text-[5vh] gap-2 font-medium">
         World Without 
         Hunger, War, 
         and Misery
@@ -23,7 +23,7 @@ title: Muhammad Insan Al-Amin - Intelligent Systems Engineer
       </h3>
     </div>
   <img
-      class="intro-spark absolute h-[calc(10dvh)] top-[calc(43dvh)] md:top-[calc(12dvh)] right-[2vh] md:right-[35vh]"
+      class="intro-spark absolute h-[calc(10dvh)] top-[calc(43dvh)] md:top-[calc(12dvh)] right-[2vh] md:right-[30vh]"
       src="/assets/svg/elements/spark.svg"
     />
     <div class="flex flex-col relative">
@@ -41,6 +41,14 @@ title: Muhammad Insan Al-Amin - Intelligent Systems Engineer
   <div class="container flex flex-col gap-4 mx-auto px-8 py-8 text-center text-lg">
     <p>Hello, I am <b>Insan</b>, a <b>PhD student</b> at the <b>Faculty of IT at Monash University</b>. </p>
     <p>I am currently researching the <b>Vehicle-to-Everything (V2X)</b> topics, exploring how to reduce electricity costs and emissions by leveraging electric vehicle batteries <a class="underline" href="https://monash.urbancomputing.org">(you can see the demo of our project here)</a>.</p>
+    <div class="flex flex-row gap-2 justify-center">
+      <a href="https://www.linkedin.com/in/insan-al-amin/" target="_blank" class="text-water-700">
+        <img alt="ORCID Muhammad Insan Al-Amin" class="h-8" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+      </a>
+      <a href="https://orcid.org/0000-0003-2320-5431">
+        <img alt="Linkedin Muhammad Insan Al-Amin" class="h-8" alt="ORCID iD" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/512px-ORCID_iD.svg.png?20190308043226">
+      </a>
+    </div>
   </div>
 </div>
 
@@ -56,7 +64,7 @@ title: Muhammad Insan Al-Amin - Intelligent Systems Engineer
 
 <div class="flex flex-col gap-4 mt-16">
   <h2 class="section-head w-full flex flex-row justify-center">Ideas To Be Realised</h2>
-  <div class="grid gap-1 grid-cols-1 md:grid-cols-2 lg:grid-cols-2 [&>div]:bg-slate-200/[.6] [&_h3]:mb-4 [&>div]:text-justify [&>div]:p-8 font-hand text-xl [&_h3]:text-2xl [&_h3]:font-bold">
+  <div class="grid gap-1 grid-cols-1 md:grid-cols-2 lg:grid-cols-2 [&>div]:bg-slate-200/[.6] [&_h3]:mb-4 [&>div]:text-justify [&>div]:p-8 font-body [&_h3]:text-xl [&_h3]:font-bold [&_h3]:text-water-700">
     <div>
       <h3>On Body and Mind</h3>
 Integrated intelligent systems that can help people achieve their dreams, such as a wearable exoskeleton connected to non-invasive body signal recognisers, which not only physically guides us out of our laziness by prompting our body to make the necessary movements to achieve our specific life goals, but also reads our current mental state to provide interactive responses that motivate us based on our condition
@@ -111,7 +119,7 @@ Sustainable income growth, achieved through high-quality goods and services, is 
   <div class="grid grid-cols-1 md:grid-cols-2 gap-1">
     {% for post in site.posts %}
       <div class="flex flex-col border-b border-slate-200 w-full py-2 px-4">
-        <a class="text-xl text-water-700" href="{{ post.url }}">{{ post.title }}</a>
+        <a class="text-xl font-semibold text-water-700" href="{{ post.url }}">{{ post.title }}</a>
         <span class="text-slate-400">{{ post.date | date: "%B %d, %Y" }}</span>
       </div>
     {% endfor %}
