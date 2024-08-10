@@ -1,270 +1,151 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Muhammad Insan Al-Amin</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/default.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="/styles/style.css"> 
-
-    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js" integrity="sha512-E8QSvWZ0eCLGk4km3hxSsNmGWbLtSCSUcewDQPQWZF6pEU8GlT8a5fF32wOl1i8ftdMhssTrF/OhyGWwonTcXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
-    <script type="module">
-      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-    </script>
-
-    <script src="/scripts/default.js"></script>
-    <script>
-      hljs.highlightAll();
-    </script>
-
-  </head>
-  <body x-data="{
-    hideEmail: false,
-    encryptedEmail: `bXVoYW1tYWQuaW5zYW5hbGFtaW5AdWluc2dkLmFjLmlk`
-  }">
-
-    <div class="top-menu">
-      <a href="/">Home</a>
-      <a href="/courses">Courses</a>
-      <a href="/rnd">RnD</a>
-      <a href="/blog">Blog</a>
-    </div> 
-  
-    <div class="container mt-4">
-      <div class="col">
-        <div class="row">
-          
-        </div>
-        <div class="row text-center">
-          <h1>Muhammad Insan Al-Amin</h1>
-          <div>
-            Scopus ID 57215279914<br/ >
-            <a href="https://www.linkedin.com/in/insan-al-amin/" target="_blank">Linkedin</a><br />
-            <div class="gap-1 d-flex mt-2 flex-row justify-content-center align-items-center">
-              <div class="d-flex mr-4">
-                Email
-              </div> 
-              <button class="btn btn-sm btn-secondary"
-                @click="hideEmail = !hideEmail"
-                x-text="hideEmail ? `Hide` : `Show`"
-              >
-                Show
-              </button>
-              <span
-                id="email"
-                x-show="hideEmail"
-                x-text="decode(encryptedEmail)"
-              >
-              </span>
-            </div>
-          </div>
-        </div>
-      </div> 
+---
+layout: default
+title: Muhammad Insan Al-Amin - Intelligent Systems Engineer 
+---
+<div class="bg-[url('/assets/svg/elements/fence.svg')] bg-repeat-x bg-bottom bg-no-repeat flex flex-col bg-water-800 h-[calc(100dvh)] md:h-[calc(50dvh)] md:max-h-[400px] overflow-y-hidden">
+  <div class="flex flex-col lg:container lg:mx-auto relative overflow-hidden pt-20 px-8 md:px-8h-[calc(100dvh)] md:pt-20 gap-8 h-full w-full">
+    <div class="flex flex-col grow gap-6 justify-center">
+      <h1 class="intro-h1 font-heading break-normal text-slate-100 text-[6vh] leading-tight md:text-[5vh] gap-2 font-medium">
+        World Without 
+        Hunger, War, 
+        and Misery
+      </h1>
+      <h2 class="intro-h2 font-heading leading-tight break-normal w-8/12 md:w-9/12 lg:w-full text-ground-300 font-medium text-[4vh] md:text-[4vh] gap-2">
+        Can intelligent 
+        technologies
+        be utilised
+        to achieve this ?
+      </h2>
+      <h3 class="intro-h3 font-heading text-water-100 leading-tight text-[3vh] w-[50%] md:w-9/12 lg:w-full">
+        Can they carry you 
+        to fulfil the personal
+        goals of your life ? 
+      </h3>
     </div>
-    <div class="container text-center mt-5">
-      <p>
-I am a PhD student at the Faculty of Information Technology, Monash University, Australia. I have received my Master's in Informatics from Institut Teknologi Bandung (ITB) in 2019. I have worked as a Lecturer, Data Engineer, and GIS Developer for various organisations in Indonesia. My research areas include Intelligent Transportation Systems, Applied Machine Learning, Geospatial Data Analytics, and Information Extraction. My previous works on governmental solutions include Poverty Alleviation Analytics, One Spatial Data Policy and the COVID-19 task force for Indonesia's Government of West Java Province (48 million population).
-      </p>
+  <img
+      class="intro-spark absolute h-[calc(10dvh)] top-[calc(43dvh)] md:top-[calc(12dvh)] right-[2vh] md:right-[35vh]"
+      src="/assets/svg/elements/spark.svg"
+    />
+    <div class="flex flex-col relative">
+      <img
+        class="intro-photo absolute lg:flex max-h-[420px] -right-[16vh] lg:-right-0 bottom-0"
+        src="/assets/common-images/insanalamin.png"
+      />
     </div>
-    
-    <div class="container mt-5">
-      <div class="row">
-        <h2>Education</h2>
-        <div class="row mt-2">
-          <ul class="list-group">
-            <li class="list-group-item">
-              <h3>2024 - present: PhD in Information Technology</h3>
-              Monash University<br />Research area in Intelligent Transportation System 
-            </li>
-            <li class="list-group-item">
-              <h3>2017 - 2019: Magister of Science in Informatics</h3>
-              Institut Teknologi Bandung<br />Specialisation in Intelligent Systems. Master theses in Information Extraction
-            </li>
-            <li class="list-group-item">
-              <h3>2014 - 2017: Bachelor of Engineering in Mechanical Engineering</h3>
-              Universitas Jenderal Achmad Yani<br />Final project in Load and Pressure Analysis Simulator for Crane
-            </li>
-          </ul>
-        </div>
+  </div>
 
+
+</div>
+
+<div class="bg-slate-200/[.6]">
+  <div class="container flex flex-col gap-4 mx-auto px-8 py-8 text-center text-lg">
+    <p>Hello, I am <b>Insan</b>, a <b>PhD student</b> at the <b>Faculty of IT at Monash University</b>. </p>
+    <p>I am currently researching the <b>Vehicle-to-Everything (V2X)</b> topics, exploring how to reduce electricity costs and emissions by leveraging electric vehicle batteries <a class="underline" href="https://monash.urbancomputing.org">(you can see the demo of our project here)</a>.</p>
+  </div>
+</div>
+
+<div class="flex flex-col gap-4 mt-16 items-center">
+  <h2 class="section-head w-full flex flex-row justify-center">Featured Works</h2>
+  <div class="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-1">
+    <div class="flex flex-col gap-2 items-center w-full max-w-[400px] bg-slate-200 p-2 rounded">
+      <img class="h-[30vh] w-full object-cover" src="/assets/common-images/featured-1.gif" />
+      <span class="text-slate-500">Reducing EV Cost and Emission</span> 
+    </div>
+  </div>
+</div>
+
+<div class="flex flex-col gap-4 mt-16">
+  <h2 class="section-head w-full flex flex-row justify-center">Ideas To Be Realised</h2>
+  <div class="grid gap-1 grid-cols-1 md:grid-cols-2 lg:grid-cols-2 [&>div]:bg-slate-200/[.6] [&_h3]:mb-4 [&>div]:text-justify [&>div]:p-8 font-hand text-xl [&_h3]:text-2xl [&_h3]:font-bold">
+    <div>
+      <h3>On Body and Mind</h3>
+Integrated intelligent systems that can help people achieve their dreams, such as a wearable exoskeleton connected to non-invasive body signal recognisers, which not only physically guides us out of our laziness by prompting our body to make the necessary movements to achieve our specific life goals, but also reads our current mental state to provide interactive responses that motivate us based on our condition
+    </div>
+    <div>
+      <h3>On World Peace</h3>
+An integrated digital media platform that spreads positive trends, values, and inspirations, promoting peace, kindness, empathy, and tolerance worldwide, with a primary focus on emerging youth leaders in nuclear-armed countries, and at some point in time, people will realise, and without any war happening, every country will begin to convert their warheads into abundant sources of electricity
+    </div>
+    <div>
+      <h3>On Self-Sustaining Food</h3>
+A compact automatic machine that is small enough to be installed in a small house or apartment unit, and can automatically grow, harvest, and process food sufficient to meet more than half of the inhabitants' needs. This machine would likely leverage exceptionally fast-growing food sources such as fungi, insects, microgreens, algae, or other options, making it deployable in famine-stricken regions around the world. Imagine receiving a fungi-based or insect-based patty for your burger, automatically prepared and packed every day for free
+    </div>
+    <div>
+      <h3>On Microeconomic Growth</h3>
+Sustainable income growth, achieved through high-quality goods and services, is a key driving factor in combating poverty. By utilising localized big data, this intelligent system will guide you in selecting the right business, identifying target customers, sourcing product components, building a marketable product, designing training courses for workers, and creating effective campaigns. Ultimately, it will transform individuals into sociopreneurs, with the goal of accelerating labor absorption and alleviating poverty
+    </div>
+  </div>
+</div>
+
+<div class="flex flex-col gap-4 mt-16">
+  <h2 class="section-head w-full flex flex-row justify-center">Experiences & Interests</h2>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-1 lg:grid-cols-4 text-slate-600">
+    <div class="px-4 py-2 rounded bg-slate-200/[.6]">
+      Applied AI & Machine Learning
+    </div>
+    <div class="px-4 py-2 rounded bg-slate-200/[.6]">
+      Geospatial Information Systems
+    </div>
+    <div class="px-4 py-2 rounded bg-slate-200/[.6]">
+      Interactive Visualisation
+    </div>
+    <div class="px-4 py-2 rounded bg-slate-200/[.6]">
+      Data Engineering
+    </div>
+    <div class="px-4 py-2 rounded bg-slate-200/[.6]">
+      Recommendation Systems
+    </div>
+    <div class="px-4 py-2 rounded bg-slate-200/[.6]">
+      Preventable Mortality Reduction
+    </div>
+    <div class="px-4 py-2 rounded bg-slate-200/[.6]">
+      Poverty Alleviaton
+    </div>
+    <div class="px-4 py-2 rounded bg-slate-200/[.6]">
+      Character Education
+    </div>
+  </div>
+</div>
+
+<div class="flex flex-col gap-4 mt-16">
+  <h2 class="section-head w-full flex flex-row justify-center">Latest Posts</h2>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-1">
+    {% for post in site.posts %}
+      <div class="flex flex-col border-b border-slate-200 w-full py-2 px-4">
+        <a class="text-xl text-water-700" href="{{ post.url }}">{{ post.title }}</a>
+        <span class="text-slate-400">{{ post.date | date: "%B %d, %Y" }}</span>
       </div>
-    </div> 
-    
-    <div class="container mt-5">
-      <div class="row">
-        <h2>Recent Publications</h2>
-        
-        <div class="row mt-2">
-          <ul class="list-group">
-            <li class="list-group-item">
-              <a href="https://www.doi.org/10.1109/citsm56380.2022.9935856" target="_blank">
-                Al-Amin, M. I., Sidiq, F. N., Ramdania, D. R., Fajar, N., Gerhana, Y. A., &amp; Harika, M. (2022, September 20). 
-                Spices Image Classification Using Support Vector Machine. 2022 10th International Conference on Cyber and IT Service Management (CITSM). 
-                Presented at the 2022 10th International Conference on Cyber and IT Service Management (CITSM), Yogyakarta, Indonesia. doi:10.1109/citsm56380.2022.9935856
-              </a>
-            </li> 
-            <li class="list-group-item">
-              <a href="https://www.doi.org/10.1109/icwt55831.2022.9935395" target="_blank">
-                Ridwan, A. M., Ramdania, D. R., Maylawati, D. S., Wahana, A., Mulyana, E., & Al-Amin, M. I. (2022, July 21).
-                Leather Product Recommendation System Using Collaborative Filtering Algorithm.
-                2022 8th International Conference on Wireless and Telematics (ICWT). Presented at the 2022 8th International Conference on Wireless and Telematics (ICWT), Yogyakarta, Indonesia. doi:10.1109/icwt55831.2022.9935395.
-              </a>
-            </li> 
-            <li class="list-group-item">
-              <a href="https://www.doi.org/10.1109/icwt52862.2021.9678399" target="_blank">
-  Budiman, I., Firdaus, M. D., Al-amin, M. I., Nurlatifah, E., & Jumadi, J. (2021, August 19). 
-  Web Crawler Development to Optimize the Sentiment Analysis Process of Indonesian News Article Opinions. 
-  2021 7th International Conference on Wireless and Telematics (ICWT). Presented at the 2021 7th International Conference on Wireless and Telematics (ICWT), Bandung, Indonesia. doi:10.1109/icwt52862.2021.9678399.
-              </a>
-            </li> 
-            <li class="list-group-item">
-              <a href="https://www.doi.org/10.1109/icwt55831.2022.9935484" target="_blank">
-  Ramdania, D. R., Aziz, R. M., Mulyana, E., Kaffah, F. M., Maylawati, D. S., Al-Amin, M. I., & Ramdhani, M. A. (2022, July 21). 
-  Convolutional Neural Network for Halal Detection of Korean Cosmetic Composition. 2022 8th International Conference on Wireless and Telematics (ICWT). 
-  Presented at the 2022 8th International Conference on Wireless and Telematics (ICWT), Yogyakarta, Indonesia. doi:10.1109/icwt55831.2022.9935484.
-              </a>
-            </li> 
-            <li class="list-group-item">
-              <a href="https://www.doi.org/10.1109/ic3ina48034.2019.8949614" target="_blank">
-  Al-Amin, M. I., & Khodra, M. L. (2019, October). 
-  Relation Classification for Indonesian Music News Sentences. 2019 International Conference on Computer, Control, Informatics and Its Applications (IC3INA). 
-  Presented at the 2019 International Conference on Computer, Control, Informatics and its Applications (IC3INA), Tangerang, Indonesia. doi:10.1109/ic3ina48034.2019.8949614
-              </a>
-            </li> 
-          </ul>
-        </div>
+    {% endfor %}
+  </div>
+</div>
 
-      </div>
-    </div> 
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    anime({
+      targets: ['.intro-h1', '.intro-h2', '.intro-h3'],
+      translateY: ['4vw', '0'],
+      opacity: [0, 1],
+      duration: 2000,
+      easing: 'easeOutExpo',
+      delay: anime.stagger(2000)
+    });
 
-    <div class="container mt-5">
-      <div class="row">
-        <h2>Project Highlights</h2>
+    anime({
+      targets: '.intro-photo',
+      translateY: ['10vw', '0'],
+      opacity: [0, 1],
+      duration: 2000,
+      delay: 0,
+      easing: 'easeOutExpo',
+    });
 
-        <div class="row mt-2">
-          <ul class="list-group">
-            <li class="list-group-item">2023: Geolocation-based ATM Rental Price Prediction Using XGBoost and Dynamic Spatial Attributes</li>
-            <li class="list-group-item">2023: Offline-first Mobile GIS Development for Automatic Internet Signal Strength Mapping in Disaster-prone Settlements</li>
-            <li class="list-group-item">2022: Automatic Extraction of Spatial Information from Digital Media Sources for Event Alerting</li>
-            <li class="list-group-item">2022: Land Asset Management for Bekasi Regency of Indonesia</li>
-            <li class="list-group-item">2020: Detection of Covid-19 Cases in The Area Around The User</li>
-            <li class="list-group-item">2020: Verification of Covid-19 Social Assistance Recipients Using Apache Spark Cluster</li>
-            <li class="list-group-item">2018: Interactive Graph-based User Interface for Arranging Machine Learning Process</li>
-            <li class="list-group-item">2017: Tourism Potential Heatmap Based on Social Media Data and News</li>
-            <li class="list-group-item">2017: Geolocation-based Poverty Alleviation Management System</li>
-            <li class="list-group-item">2016: Collaborative Place Tagging for Public Facilities</li>
-            <li class="list-group-item">2015: Jabar Menjawab - Search Engine for Different Types of Government Contents</li>
-          </ul>
-        </div>
-        
-
-      </div>
-    </div> 
-    
-    <div class="container mt-5">
-      <div class="row">
-        <h2>Recent Working Experiences</h2>
-
-        <div class="row mt-2">
-          <ul class="list-group">
-            <li class="list-group-item">
-              <h3>2021 - 2024: Lecturer</h3>
-              Informatics Department of UIN Sunan Gunung Djati Bandung, Indonesia
-            </li>
-            <li class="list-group-item">
-              <h3>2020: Data Engineer</h3>
-              Jabar Digital Service of West Java Province, Indonesia
-            </li>
-            <li class="list-group-item">
-              <h3>2015-2019: Software Developer, Data Analyst</h3>
-              Regional Development Planning of the West Java Province, Indonesia <br />
-              <ul>
-                <li>2019: Team for Accelerating Regional Poverty Reduction</li>
-                <li>2018: Regional Growth and Resource Analysis Office</li>
-                <li>2016-2017: Center for Data and Analysis for Regional Development</li>
-              </ul>
-            </li>
-          </ul>
-        </div>
-
-        <div class="row mt-2">
-        </div>
-      </div>
-    </div> 
-
-    <div class="container mt-5">
-      <div class="row">
-        <h2>Skill Set</h2>
-        
-        <div class="row mt-2">
-<pre class="mermaid">
-mindmap
-  root((Skill Set))
-    Software Engineering 
-      Microservices
-        Docker
-        Kubernetes
-      Frontend Development 
-        React TypeScript
-        NextJS
-      Cloud Services
-        Google Cloud Platform
-        Amazon Web Services
-        Cloudflare
-      Search Engine Optimisation 
-      Backend Development 
-        Linux Server
-        Nginx
-        FastAPI
-    Geographic Information System
-      Database
-        PostGIS
-      Map Server
-        GeoServer
-      Map Visualisation
-        Deck.gl
-        OpenLayers
-    Data Engineering 
-      Pipeline Automation
-        Apache Airflow
-      Big Data Analysis 
-        Apache Spark
-    Machine Learning
-      Python
-      TensorFlow
-      scikit-learn 
-
-</pre>
-        </div>
-
-      </div>
-    </div> 
-
-
-    <script>
-      function encode(inputText) {
-        // PROCESS
-        const encodedWord = CryptoJS.enc.Utf8.parse(inputText); // encodedWord Array object
-        const encoded = CryptoJS.enc.Base64.stringify(encodedWord); // string: 'NzUzMjI1NDE='
-        return encoded;
-      }
-
-      function decode(inputText) {
-        // PROCESS
-        const encodedWord = CryptoJS.enc.Base64.parse(inputText); // encodedWord via Base64.parse()
-        const decoded = CryptoJS.enc.Utf8.stringify(encodedWord); // decode encodedWord via Utf8.stringify() '75322541'
-        return decoded;
-      }
-    </script>
-
-  </body>
-</html>
+    anime({
+      targets: '.intro-spark',
+      translateY: ['12vw', '0'],
+      opacity: [0, 1],
+      scale: [0.2, 1],
+      duration: 2000,
+      easing: 'easeOutExpo',
+      delay: 0,
+    });
+  });
+</script>
