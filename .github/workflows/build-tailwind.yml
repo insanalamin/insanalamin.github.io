@@ -33,8 +33,12 @@ jobs:
 
       - name: Commit and push built CSS
         run: |
-          git add assets/css/tailwind.css
-          git commit -m "Build Tailwind CSS"
-          git push
+          if git diff --quiet; then
+            echo "No changes to commit";
+          else
+            git add assets/css/tailwind.css
+            git commit -m "Build Tailwind CSS"
+            git push
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
