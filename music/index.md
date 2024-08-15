@@ -1,5 +1,5 @@
 ---
-title: Playlist Musik
+title: My Favorite Music
 ---
 
 ## Indonesiav

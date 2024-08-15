@@ -10,3 +10,21 @@ Kubernetes makes managing container within cluster easier. For Docker user who h
 k3d is a tool to install and manage Kubernetes cluster using existing Docker system. 
 
 ## Accessing the Cluster Using Lens Kubernetes Desktop GUI
+
+## Kubernetes Objects
+Kubernetes objects are persistent entities in the Kubernetes system [ref](https://kubernetes.io/docs/concepts/overview/working-with-objects/).
+
+### Config Map
+
+### Storage Class
+
+
+### PersistentVolumeClaim
+
+### Stateful Set
+
+### Service
+Service Object exposes the network of one or more Pods in the cluster.
+
+## SSH Tunneling
+SSH Tunneling is a cost effective part to to connect to the internal network of Kubernetes host server, and  

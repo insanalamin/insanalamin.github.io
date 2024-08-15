@@ -19,4 +19,34 @@
   h2.section-head {
     @apply font-heading text-3xl md:text-4xl font-bold text-water-700;
   }
+
+  .mjx-chtml {
+    overflow-y: hidden;
+    overflow-x: auto;
+  }
+  .post-content {
+    @apply font-body text-slate-500;
+  }
+  .post-content p {
+    @apply mt-2 mb-8;
+  }
+  .post-content h2 {
+    @apply text-xl font-body font-bold text-slate-500 mt-0;
+  }
+  .post-content h3 {
+    @apply text-lg font-body font-bold text-slate-500 mt-0;
+  }
+  .post-content table {
+    @apply mt-2 mb-8;
+  }
+  .post-content ul {
+    @apply list-disc list-inside;
+  }
+  .post-content ul li {
+    @apply list-disc list-inside leading-loose;
+  }
+  .post-content ul li ul {
+    @apply ml-6 list-[circle];
+  }
+
 }
