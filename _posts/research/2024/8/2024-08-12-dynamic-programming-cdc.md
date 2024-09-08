@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dynamic Programming for Charging Discharging Scheduling"
-date:   2024-08-12 21:33:51 +1000
+date:   2025-08-12 21:33:51 +1000
 categories: tech 
 ---
 

@@ -36,8 +36,20 @@
   .post-content h3 {
     @apply text-lg font-body font-bold text-slate-500 mt-0;
   }
+  .post-content h4 {
+    @apply font-body font-bold text-slate-500 mt-0;
+  }
   .post-content table {
-    @apply mt-2 mb-8;
+    @apply mt-2 mb-8 w-full;
+  }
+  .post-content table tr {
+    @apply border-b border-slate-300;
+  }
+  .post-content table thead tr {
+    @apply border-b-2 border-slate-300;
+  }
+  .post-content table tbody tr td {
+    @apply px-2 py-1;
   }
   .post-content ul {
     @apply list-disc list-inside;

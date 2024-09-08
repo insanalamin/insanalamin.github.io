@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}</title>
+  <title>{% if page.seotitle %}{{ page.seotitle }}{% else %}{{ page.title }}{% endif %}</title>
   <link rel="stylesheet" href="{{ '/assets/css/tailwind.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" defer></script>
@@ -18,7 +18,7 @@
   <main class="pt-12">
     <div class="w-full flex flex-col">
       <h1 class="font-heading pt-12 pb-8 pl-8 bg-water-100/[.6] text-2xl md:text-5xl text-water-800 mb-8">{{ page.title }}</h1>
-      <div class="font-body [&_h2]:text-xl [&_h2]:font-body [&_h2]:font-bold text-slate-500 [&_h2]:text-slate-600 [&_h2]:mt-0 [&_table]:mt-2 [&_table]:mb-8 [&_p]:mt-2 [&_p]:mb-8">
+      <div class="post-content">
         {{ content }}
       </div>
     </div>

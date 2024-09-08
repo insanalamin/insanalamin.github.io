@@ -584,9 +584,33 @@ h2.section-head {
   --tw-text-opacity: 1;
   color: rgb(100 116 139 / var(--tw-text-opacity));
 }
+.post-content h4 {
+  margin-top: 0px;
+  font-family: "Roboto Slab", sans-serif;
+  font-weight: 700;
+  --tw-text-opacity: 1;
+  color: rgb(100 116 139 / var(--tw-text-opacity));
+}
 .post-content table {
   margin-top: 0.5rem;
   margin-bottom: 2rem;
+  width: 100%;
+}
+.post-content table tr {
+  border-bottom-width: 1px;
+  --tw-border-opacity: 1;
+  border-color: rgb(203 213 225 / var(--tw-border-opacity));
+}
+.post-content table thead tr {
+  border-bottom-width: 2px;
+  --tw-border-opacity: 1;
+  border-color: rgb(203 213 225 / var(--tw-border-opacity));
+}
+.post-content table tbody tr td {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
 }
 .post-content ul {
   list-style-position: inside;
@@ -649,6 +673,9 @@ h2.section-head {
 }
 .mt-16 {
   margin-top: 4rem;
+}
+.block {
+  display: block;
 }
 .flex {
   display: flex;
@@ -976,6 +1003,7 @@ h2.section-head {
 @import url('https://fonts.googleapis.com/css2?family=Antonio:wght@100..700&family=Bad+Script&family=Dangrek&family=Fuzzy+Bubbles:wght@400;700&family=Patrick+Hand&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Antonio:wght@100..700&family=Bad+Script&family=Caveat:wght@400..700&family=Dangrek&family=Fuzzy+Bubbles:wght@400;700&family=Patrick+Hand&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Antonio:wght@100..700&family=Bad+Script&family=Caveat:wght@400..700&family=Dangrek&family=Fuzzy+Bubbles:wght@400;700&family=Patrick+Hand&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
 @media (min-width: 1024px) {
 
   .lg\:container {
@@ -1017,6 +1045,7 @@ h2.section-head {
     }
   }
 }
+
 @media (min-width: 768px) {
 
   .md\:right-\[30vh\] {
@@ -1064,6 +1093,7 @@ h2.section-head {
     font-size: 5vh;
   }
 }
+
 @media (min-width: 1024px) {
 
   .lg\:-right-0 {
@@ -1115,69 +1145,51 @@ h2.section-head {
     gap: 2rem;
   }
 }
+
 .\[\&\>a\:hover\]\:text-water-100>a:hover {
   --tw-text-opacity: 1;
   color: rgb(196 215 230 / var(--tw-text-opacity));
 }
+
 .\[\&\>a\]\:font-heading>a {
   font-family: "Dangrek", sans-serif;
 }
+
 .\[\&\>a\]\:text-\[7vh\]>a {
   font-size: 7vh;
 }
+
 .\[\&\>div\]\:bg-slate-200\/\[\.6\]>div {
   background-color: rgb(226 232 240 / .6);
 }
+
 .\[\&\>div\]\:p-8>div {
   padding: 2rem;
 }
+
 .\[\&\>div\]\:text-justify>div {
   text-align: justify;
 }
+
 .\[\&_a\:hover\]\:text-water-100 a:hover {
   --tw-text-opacity: 1;
   color: rgb(196 215 230 / var(--tw-text-opacity));
 }
-.\[\&_h2\]\:mt-0 h2 {
-  margin-top: 0px;
-}
-.\[\&_h2\]\:font-body h2 {
-  font-family: "Roboto Slab", sans-serif;
-}
-.\[\&_h2\]\:text-xl h2 {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
-}
-.\[\&_h2\]\:font-bold h2 {
-  font-weight: 700;
-}
-.\[\&_h2\]\:text-slate-600 h2 {
-  --tw-text-opacity: 1;
-  color: rgb(71 85 105 / var(--tw-text-opacity));
-}
+
 .\[\&_h3\]\:mb-4 h3 {
   margin-bottom: 1rem;
 }
+
 .\[\&_h3\]\:text-xl h3 {
   font-size: 1.25rem;
   line-height: 1.75rem;
 }
+
 .\[\&_h3\]\:font-bold h3 {
   font-weight: 700;
 }
+
 .\[\&_h3\]\:text-water-700 h3 {
   --tw-text-opacity: 1;
   color: rgb(68 104 126 / var(--tw-text-opacity));
-}
-.\[\&_p\]\:mb-8 p {
-  margin-bottom: 2rem;
-}
-.\[\&_p\]\:mt-2 p {
-  margin-top: 0.5rem;
-}
-.\[\&_table\]\:mb-8 table {
-  margin-bottom: 2rem;
-}
-.\[\&_table\]\:mt-2 table {
-  margin-top: 0.5rem;
 }
