@@ -684,6 +684,9 @@ h2.section-head {
 .grid {
   display: grid;
 }
+.contents {
+  display: contents;
+}
 .hidden {
   display: none;
 }
