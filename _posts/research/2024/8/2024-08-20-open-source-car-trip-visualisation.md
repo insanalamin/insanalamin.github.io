@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Source Car Trip Visualisation"
 date:   2025-08-20 10:00:51 +1000
-categories: tech 
+categories: research 
 ---
 
 ## Key Points

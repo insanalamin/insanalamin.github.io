@@ -1,6 +1,16 @@
 ---
-title: My Favorite Music
+title: My Music Playlist - Muhammad Insan Al-Amin
+layout: default
 ---
+
+## Favorite Albums
+- Blood Stain Child - Epsilon 2011 
+- Unsun
+- Linkin Park
+- Angels and Airwaves
+- The Offspring
+- Blink 182 - Take Off Your Pants and Jacket 2000
+
 
 ## Indonesiav
 
